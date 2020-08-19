@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tcitry/tcitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,11 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tcitry)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Hi there 👋
+
+
+- 🔭 I’m currently working on Golang/Python.
+- 🌱 I’m currently learning Swift and macOS development.
+- 📫 How to reach me: send me email.
