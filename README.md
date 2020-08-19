@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![tcitry's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tcitry&theme=Gradient&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![tcitry's github stats](https://github-readme-stats.vercel.app/api/?username=tcitry&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+
+[![tcitry's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcitry&theme=Gradient&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
