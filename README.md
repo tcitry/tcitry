@@ -13,11 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![tcitry's github stats](https://github-readme-stats.vercel.app/api?username=tcitry&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Hi there 👋
-
 
 - 🔭 I’m currently working on Golang/Python.
 - 🌱 I’m currently learning Swift and macOS development.
 - 📫 How to reach me: send me email.
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=tcitry&show_icons=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcitry&layout=compact"/>
+</div>
