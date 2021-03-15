@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Golang/Python.
-- 🌱 I’m currently learning Swift and macOS development.
-- 📫 How to reach me: send me email.
+- I’m currently working on Golang/Python.
+- I’m currently learning Swift and macOS development.
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=tcitry&show_icons=true"/>
