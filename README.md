@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=tcitry&show_icons=true"/>
-  <img height="170" align="left" src="https://raw.githubusercontent.com/tcitry/Pictures/master/uPic/wechat%E7%9A%84%E5%89%AF%E6%9C%AC.jpeg" alt="加我微信~" style="zoom:33%;text-align:left;" />
 </div>
