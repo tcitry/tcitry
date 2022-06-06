@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 7 hrs 36 mins
+Total Time: 5 hrs 2 mins
 
-JavaScript   2 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   28.95 %
-HTML         2 hrs 6 mins    ███████░░░░░░░░░░░░░░░░░░   27.72 %
-JSON         1 hr 24 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
-Markdown     32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-TypeScript   31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-TOML         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+HTML         2 hrs 27 mins   ████████████▒░░░░░░░░░░░░   48.90 %
+JavaScript   1 hr 19 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
+Markdown     27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+SCSS         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+TOML         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Go           7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
