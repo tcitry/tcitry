@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '30 4 * * *'
+    - cron: '23 1 * * *'
   workflow_dispatch:
 
 jobs:
@@ -16,3 +16,4 @@ jobs:
         with:
           feed_list: "https://yindongliang.com/posts/index.xml"
           max_post_count: 10
+          template: "default"
