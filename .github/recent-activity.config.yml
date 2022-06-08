@@ -4,9 +4,5 @@ settings:
   max_lines: 25
   disabled_events:
   url_text: "{REPO}{ID}"
-  date:
-    timezone: "0"
-    text: "Last Updated: {DATE}"
-    format: "isoUtcDateTime"
   commit_name: "recent-activity-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"

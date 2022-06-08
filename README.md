@@ -41,10 +41,6 @@ I’m tcitry, a curious programmer from China.
 25. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
 <!--RECENT_ACTIVITY:end-->
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: 2022-06-08T06:32:16Z
-<!--RECENT_ACTIVITY:last_update_end-->
-
 </td>
 <td valign="top" width="50%">
 
