@@ -9,7 +9,7 @@ I’m tcitry, a curious programmer from China.
 
 <table>
 <tr>
-<td valign="top">
+<td valign="top" rowspan="3" width="50%">
 
 ### 🚀 Recent Activity
 
@@ -31,7 +31,7 @@ Last Updated: 2022-06-08T06:08:55Z
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </td>
-<td valign="top">
+<td valign="top" width="50%">
 
 ### 📝 Latest Blog Posts
 
@@ -52,8 +52,10 @@ Last Updated: 2022-06-08T06:08:55Z
 
 </td>
 </tr>
+<tr><td width="50%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tcitry&show_icons=true&locale=en" alt="tcitry" /></td></tr>
+<tr><td width="50%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tcitry&" alt="tcitry" /></td></tr>
 <tr>
-<td colspan="2">
+<td valign="top" colspan="2">
 
 ### 📊 Development Time This Week
 
@@ -75,8 +77,4 @@ JSON         12 mins         ▓░░░░░░░░░░░░░░░░
 </td>
 </tr>
 
-<tr>
-<td width="50%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tcitry&show_icons=true&locale=en" alt="tcitry" /></td>
-<td width="50%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tcitry&" alt="tcitry" /></td>
-</tr>
 </table>
