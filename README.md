@@ -7,9 +7,9 @@ I’m tcitry, a curious programmer from China.
 - 🔭 I’m also interested in iOS/macOS development.
 - ⚡ I have experience with Python, Django, Golang, MySQL, Redis, MongoDB, Kafka at work.
 
-<table>
+<table width="960px">
 <tr>
-<td valign="top" rowspan="3" width="50%">
+<td valign="top" rowspan="3" width="450px">
 
 ### 🚀 Recent Activity
 
@@ -42,7 +42,7 @@ I’m tcitry, a curious programmer from China.
 <!--RECENT_ACTIVITY:end-->
 
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
 ### 📝 Latest Blog Posts
 
@@ -63,8 +63,8 @@ I’m tcitry, a curious programmer from China.
 
 </td>
 </tr>
-<tr><td width="50%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tcitry&show_icons=true&locale=en" alt="tcitry" /></td></tr>
-<tr><td width="50%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tcitry&" alt="tcitry" /></td></tr>
+<tr><td><img align="center" src="https://github-readme-stats.vercel.app/api?username=tcitry&show_icons=true&locale=en" alt="tcitry" /></td></tr>
+<tr><td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tcitry&" alt="tcitry" /></td></tr>
 <tr>
 <td valign="top" colspan="2">
 
