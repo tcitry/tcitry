@@ -19,12 +19,21 @@ I’m tcitry, a curious programmer from China.
 3. ⭐ Starred [ruanyf/weekly](https://github.com/ruanyf/weekly)
 4. ⭐ Starred [Lakr233/MoneyProgress](https://github.com/Lakr233/MoneyProgress)
 5. ⭐ Starred [apple/sample-food-truck](https://github.com/apple/sample-food-truck)
+6. ⭐ Starred [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
+7. ⭐ Starred [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)
+8. ⭐ Starred [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)
+9. ⭐ Starred [below/HelloSilicon](https://github.com/below/HelloSilicon)
+10. ⭐ Starred [localForage/localForage](https://github.com/localForage/localForage)
 <!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: 2022-06-08T05:48:31Z
+<!--RECENT_ACTIVITY:last_update_end-->
 
 </td>
 <td valign="top">
 
-### 📝 Latest Blog Posts from [yindongliang.com](https://yindongliang.com)
+### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [开工就感冒了](https://yindongliang.com/posts/catch-a-cold-when-start-work/)
@@ -39,6 +48,8 @@ I’m tcitry, a curious programmer from China.
 - [HTTPS 的密码学基础](https://yindongliang.com/posts/https-algorithems/)
 <!-- BLOG-POST-LIST:END -->
 
+> Read all from [yindongliang.com](https://yindongliang.com)
+
 </td>
 </tr>
 <tr>
@@ -49,14 +60,14 @@ I’m tcitry, a curious programmer from China.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 5 hrs 12 mins
+Total Time: 8 hrs 6 mins
 
-HTML         2 hrs 27 mins   ███████████▓░░░░░░░░░░░░░   46.82 %
-JavaScript   1 hr 19 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
-Markdown     27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-SCSS         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Go           13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-TOML         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+HTML         2 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   30.67 %
+Markdown     2 hrs 27 mins   ███████▓░░░░░░░░░░░░░░░░░   30.08 %
+YAML         1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
+JavaScript   48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+SCSS         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
 
 <!--END_SECTION:waka-->
