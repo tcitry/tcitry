@@ -14,20 +14,20 @@ I’m tcitry, a curious programmer from China.
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#2](https://github.com/tcitry/django-api-permission/issues/2) in [tcitry/django-api-permission](https://github.com/tcitry/django-api-permission)
-2. ⭐ Starred [aliyunfe/weekly](https://github.com/aliyunfe/weekly)
-3. ⭐ Starred [ruanyf/weekly](https://github.com/ruanyf/weekly)
-4. ⭐ Starred [Lakr233/MoneyProgress](https://github.com/Lakr233/MoneyProgress)
-5. ⭐ Starred [apple/sample-food-truck](https://github.com/apple/sample-food-truck)
-6. ⭐ Starred [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
-7. ⭐ Starred [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)
-8. ⭐ Starred [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)
-9. ⭐ Starred [below/HelloSilicon](https://github.com/below/HelloSilicon)
-10. ⭐ Starred [localForage/localForage](https://github.com/localForage/localForage)
+1. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+2. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+3. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+4. ⬆️ Pushed 1 commit(s) to [tcitry/LeetCode](https://github.com/tcitry/LeetCode)
+5. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+6. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+7. ⬆️ Pushed 2 commit(s) to [tcitry/LeetCode](https://github.com/tcitry/LeetCode)
+8. ⬆️ Pushed 0 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+9. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+10. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 2022-06-08T05:48:31Z
+Last Updated: 2022-06-08T06:08:55Z
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </td>
