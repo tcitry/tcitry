@@ -17,17 +17,27 @@ I’m tcitry, a curious programmer from China.
 1. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
 2. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
 3. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
-4. ⬆️ Pushed 1 commit(s) to [tcitry/LeetCode](https://github.com/tcitry/LeetCode)
+4. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
 5. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
-6. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
-7. ⬆️ Pushed 2 commit(s) to [tcitry/LeetCode](https://github.com/tcitry/LeetCode)
-8. ⬆️ Pushed 0 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
-9. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
-10. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+6. ⬆️ Pushed 1 commit(s) to [tcitry/LeetCode](https://github.com/tcitry/LeetCode)
+7. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+8. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+9. ⬆️ Pushed 2 commit(s) to [tcitry/LeetCode](https://github.com/tcitry/LeetCode)
+10. ⬆️ Pushed 0 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+11. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+12. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+13. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+14. ⬆️ Pushed 2 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+15. ⬆️ Pushed 2 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+16. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+17. ⬆️ Pushed 3 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+18. ✔️ Closed issue [#2](https://github.com/tcitry/django-api-permission/issues/2) in [tcitry/django-api-permission](https://github.com/tcitry/django-api-permission)
+19. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+20. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: 2022-06-08T06:08:55Z
+Last Updated: 2022-06-08T06:24:27Z
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </td>
