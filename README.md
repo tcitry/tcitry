@@ -73,14 +73,14 @@ I’m tcitry, a curious programmer from China.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 8 hrs 6 mins
+Total Time: 14 hrs 5 mins
 
-HTML         2 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   30.67 %
-Markdown     2 hrs 27 mins   ███████▓░░░░░░░░░░░░░░░░░   30.08 %
-YAML         1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
-JavaScript   48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
-SCSS         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Markdown     5 hrs 32 mins   █████████▓░░░░░░░░░░░░░░░   39.17 %
+HTML         3 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
+YAML         2 hrs 52 mins   █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+JavaScript   1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+SCSS         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
