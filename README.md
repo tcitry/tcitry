@@ -62,27 +62,5 @@ I’m tcitry, a curious programmer from China.
 </tr>
 <tr><td><img align="center" src="https://github-readme-stats.vercel.app/api?username=tcitry&show_icons=true&locale=en" alt="tcitry" /></td></tr>
 <tr><td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tcitry&" alt="tcitry" /></td></tr>
-<tr>
-<td valign="top" colspan="2">
-
-### 📊 Development Time This Week
-
-<!--START_SECTION:waka-->
-
-```text
-Total Time: 14 hrs 43 mins
-
-Markdown     5 hrs 37 mins   █████████▓░░░░░░░░░░░░░░░   38.08 %
-HTML         3 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.77 %
-YAML         2 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   19.93 %
-JavaScript   1 hr 54 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-SCSS         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-```
-
-<!--END_SECTION:waka-->
-
-</td>
-</tr>
 
 </table>
