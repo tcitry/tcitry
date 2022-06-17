@@ -14,10 +14,10 @@ I’m tcitry, a curious programmer from China.
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)
-2. ⭐ Starred [tw93/MiaoYan](https://github.com/tw93/MiaoYan)
-3. ⭐ Starred [philc/vimium](https://github.com/philc/vimium)
-4. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
+1. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
+2. ⬆️ Pushed 3 commit(s) to [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)
+3. ⭐ Starred [tw93/MiaoYan](https://github.com/tw93/MiaoYan)
+4. ⭐ Starred [philc/vimium](https://github.com/philc/vimium)
 5. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
 6. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
 7. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
@@ -25,20 +25,20 @@ I’m tcitry, a curious programmer from China.
 9. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
 10. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
 11. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
-12. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
-13. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
+12. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
+13. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
 14. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
 15. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
-16. ⬆️ Pushed 1 commit(s) to [tcitry/dotFiles](https://github.com/tcitry/dotFiles)
+16. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
 17. ⬆️ Pushed 1 commit(s) to [tcitry/dotFiles](https://github.com/tcitry/dotFiles)
 18. ⬆️ Pushed 1 commit(s) to [tcitry/dotFiles](https://github.com/tcitry/dotFiles)
-19. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
-20. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
+19. ⬆️ Pushed 1 commit(s) to [tcitry/dotFiles](https://github.com/tcitry/dotFiles)
+20. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
 21. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
 22. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
-23. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
+23. ⬆️ Pushed 1 commit(s) to [tcitry/tcitry](https://github.com/tcitry/tcitry)
 24. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
-25. ⭐ Starred [xcodebuild/CodeTerminal](https://github.com/xcodebuild/CodeTerminal)
+25. ⬆️ Pushed 1 commit(s) to [tcitry/Pictures](https://github.com/tcitry/Pictures)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
