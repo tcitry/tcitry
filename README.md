@@ -2,10 +2,9 @@
 
 I’m tcitry, a curious programmer from China.
 
-- 👨🏻‍💻 I’m currently working with TypeScript, JavaScript, React, Vue.
-- 🌱 I’m currently learning Rust, Swift.
+- 👨🏻‍💻 I’m currently working with Python, Golang at work.
+- 🌱 I’m currently learning TypeScript, React.
 - 🔭 I’m also interested in iOS/macOS development.
-- ⚡ I have experience with Python, Django, Golang, MySQL, Redis, MongoDB, Kafka at work.
 
 <table width="960px">
 <tr>
