@@ -36,7 +36,6 @@ I’m tcitry, a curious programmer from China.
 21. ⭐ Starred [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
 22. ⭐ Starred [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
 23. ⭐ Starred [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic)
-24. ⭐ Starred [pkg/errors](https://github.com/pkg/errors)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
