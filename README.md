@@ -36,7 +36,6 @@ I’m tcitry, a curious programmer from China.
 21. ⭐ Starred [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
 22. ⭐ Starred [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
 23. ⭐ Starred [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
-24. ⭐ Starred [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
