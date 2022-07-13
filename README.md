@@ -15,7 +15,6 @@ I’m tcitry, a curious programmer from China.
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [tcitry/portfolio](https://github.com/tcitry/portfolio) from [JonathanGin52/portfolio](https://github.com/JonathanGin52/portfolio)
 2. 🔱 Forked [tcitry/tw93](https://github.com/tcitry/tw93) from [tw93/tw93](https://github.com/tw93/tw93)
-3. ✔️ Closed issue [#2](https://github.com/tcitry/django-api-permission/issues/2) in [tcitry/django-api-permission](https://github.com/tcitry/django-api-permission)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
