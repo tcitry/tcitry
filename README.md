@@ -24,15 +24,15 @@ I’m tcitry, a curious programmer from China.
 
 <!-- BLOG-POST-LIST:START -->
 - [线上练习跟老外用英语对话](https://yindongliang.com/posts/practice-talking-with-english-speaking-person-online/)
+- [CSS 选择器语法举例](https://yindongliang.com/posts/css-selector-syntax/)
 - [AJAX 是什么？](https://yindongliang.com/posts/what-is-AJAX/)
 - [浏览器的事件机制](https://yindongliang.com/posts/browser-event/)
+- [搞懂原型链](https://yindongliang.com/posts/prototype-chain/)
 - [WebSocket 是什么？](https://yindongliang.com/posts/what-is-websocket/)
 - [TCP/IP 协议理论基础整理](https://yindongliang.com/posts/tcpip-questions/)
 - [开工就感冒了](https://yindongliang.com/posts/catch-a-cold-when-start-work/)
 - [回家过了个年](https://yindongliang.com/posts/this-year-go-home/)
 - [了解下网络硬件设备](https://yindongliang.com/posts/network-hardware-device/)
-- [用 Charles 进行手机抓包](https://yindongliang.com/posts/use-charles-capture-package-on-mobile/)
-- [回归写作](https://yindongliang.com/posts/back-to-writing/)
 <!-- BLOG-POST-LIST:END -->
 
 > Read all from [yindongliang.com](https://yindongliang.com)
