@@ -13,7 +13,8 @@ I’m tcitry, a curious programmer from China.
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [tcitry/portfolio](https://github.com/tcitry/portfolio) from [JonathanGin52/portfolio](https://github.com/JonathanGin52/portfolio)
+1. 💬 Commented on [#387](https://github.com/alex-shpak/hugo-book/pull/387#issuecomment-1189150193) in [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
+2. 🔱 Forked [tcitry/portfolio](https://github.com/tcitry/portfolio) from [JonathanGin52/portfolio](https://github.com/JonathanGin52/portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
