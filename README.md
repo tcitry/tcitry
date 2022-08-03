@@ -1,10 +1,3 @@
-## Hi there👋
-
-I’m tcitry, a curious programmer from China.
-
-- 👨🏻‍💻 I’m currently working with Python, Golang at work.
-- 🌱 I’m currently learning TypeScript, React.
-
 <table width="960px">
 <tr>
 <td valign="top" rowspan="3" width="450px">
