@@ -4,7 +4,6 @@ I’m tcitry, a curious programmer from China.
 
 - 👨🏻‍💻 I’m currently working with Python, Golang at work.
 - 🌱 I’m currently learning TypeScript, React.
-- 🔭 I’m also interested in iOS/macOS development.
 
 <table width="960px">
 <tr>
