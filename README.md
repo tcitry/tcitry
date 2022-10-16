@@ -24,8 +24,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [深入了解 Redis 的各种数据结构](https://yindongliang.com/posts/deep-in-redis-data-structure/)
 - [CSS 布局概览](https://yindongliang.com/posts/css-display/)
-- [线上练习跟老外用英语对话](https://yindongliang.com/posts/practice-talking-with-english-speaking-person-online/)
 - [CSS 选择器语法举例](https://yindongliang.com/posts/css-selector-syntax/)
+- [线上练习跟老外用英语对话](https://yindongliang.com/posts/practice-talking-with-english-speaking-person-online/)
 - [AJAX 是什么？](https://yindongliang.com/posts/what-is-AJAX/)
 - [浏览器的事件机制](https://yindongliang.com/posts/browser-event/)
 - [搞懂原型链](https://yindongliang.com/posts/prototype-chain/)
