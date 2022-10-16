@@ -10,7 +10,6 @@
 3. 💬 Commented on [#468](https://github.com/alex-shpak/hugo-book/pull/468#issuecomment-1202477605) in [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
 4. 💬 Commented on [#468](https://github.com/alex-shpak/hugo-book/pull/468#issuecomment-1202444271) in [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
 5. 💬 Commented on [#468](https://github.com/alex-shpak/hugo-book/pull/468#issuecomment-1202395719) in [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
-6. 💬 Commented on [#468](https://github.com/alex-shpak/hugo-book/pull/468#issuecomment-1202340373) in [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
