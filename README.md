@@ -11,9 +11,6 @@
 4. 💬 Commented on [#468](https://github.com/alex-shpak/hugo-book/pull/468#issuecomment-1202444271) in [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
 5. 💬 Commented on [#468](https://github.com/alex-shpak/hugo-book/pull/468#issuecomment-1202395719) in [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
 6. 💬 Commented on [#468](https://github.com/alex-shpak/hugo-book/pull/468#issuecomment-1202340373) in [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
-7. 💪 Opened PR [#468](https://github.com/alex-shpak/hugo-book/pull/468) in [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
-8. 💪 Opened PR [#467](https://github.com/alex-shpak/hugo-book/pull/467) in [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
-9. 🔱 Forked [tcitry/hugo-book](https://github.com/tcitry/hugo-book) from [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
