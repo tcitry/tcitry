@@ -7,7 +7,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. 💬 Commented on [#25](https://github.com/luojilab/django-mirage-field/issues/25#issuecomment-1216743983) in [luojilab/django-mirage-field](https://github.com/luojilab/django-mirage-field)
 2. 💬 Commented on [#25](https://github.com/luojilab/django-mirage-field/issues/25#issuecomment-1216708753) in [luojilab/django-mirage-field](https://github.com/luojilab/django-mirage-field)
-3. 💬 Commented on [#468](https://github.com/alex-shpak/hugo-book/pull/468#issuecomment-1202477605) in [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
