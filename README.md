@@ -6,7 +6,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 💬 Commented on [#25](https://github.com/luojilab/django-mirage-field/issues/25#issuecomment-1216743983) in [luojilab/django-mirage-field](https://github.com/luojilab/django-mirage-field)
-2. 💬 Commented on [#25](https://github.com/luojilab/django-mirage-field/issues/25#issuecomment-1216708753) in [luojilab/django-mirage-field](https://github.com/luojilab/django-mirage-field)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
