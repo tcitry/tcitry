@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@1.8.7
         with:
           feed_list: "http://yindongliang.com/posts/index.xml"
           max_post_count: 10
