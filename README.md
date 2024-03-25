@@ -1,5 +1,3 @@
-[![Activity workflow](https://github.com/tcitry/tcitry/actions/workflows/activity.yml/badge.svg)](https://github.com/tcitry/tcitry/actions/workflows/activity.yml)
-
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
