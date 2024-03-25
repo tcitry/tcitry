@@ -27,11 +27,3 @@
 24. ⭐ Starred [maybe-finance/maybe](https://github.com/maybe-finance/maybe)<br>
 25. ⭐ Starred [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)<br>
 <!--RECENT_ACTIVITY:end-->
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-> Read all from [yindongliang.com](https://yindongliang.com)
