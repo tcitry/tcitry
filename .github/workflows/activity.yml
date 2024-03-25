@@ -2,7 +2,7 @@ name: Activity workflow
 
 on:
   schedule:
-    - cron: '23 * * * *'
+    - cron: '23 1 * * *'
   workflow_dispatch:
 
 jobs:
