@@ -1,8 +1,8 @@
 settings:
   username: "tcitry"
   commit_msg: "Update the recent activity"
-  max_lines: 25
-  disabled_events: ["push", "star"]
+  max_lines: 100
+  disabled_events: []
   url_text: "{REPO}{ID}"
   commit_name: "recent-activity-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
