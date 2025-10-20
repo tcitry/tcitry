@@ -1,7 +1,7 @@
 settings:
   username: "tcitry"
   commit_msg: "Update the recent activity"
-  max_lines: 100
+  max_lines: 50
   disabled_events: ["push"]
   url_text: "{REPO}{ID}"
   commit_name: "recent-activity-bot"
