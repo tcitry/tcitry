@@ -71,3 +71,6 @@
 68. ⭐ Starred [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)<br>
 69. ⭐ Starred [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)<br>
 <!--RECENT_ACTIVITY:end-->
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
