@@ -1,56 +1,56 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jlowin/fastmcp](https://github.com/jlowin/fastmcp)<br>
-2. ⭐ Starred [remix-run/react-router](https://github.com/remix-run/react-router)<br>
-3. ⭐ Starred [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)<br>
-4. 👍 Approved [#1](https://github.com/tcitry/nextra-demo/pull/1#pullrequestreview-3443345251) in [tcitry/nextra-demo](https://github.com/tcitry/nextra-demo)<br>
-5. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)<br>
-6. ⭐ Starred [vercel/nextjs-stripe-template](https://github.com/vercel/nextjs-stripe-template)<br>
-7. ⭐ Starred [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS)<br>
-8. ⭐ Starred [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)<br>
-9. ⭐ Starred [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)<br>
-10. ⭐ Starred [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)<br>
-11. ⭐ Starred [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)<br>
-12. ⭐ Starred [agent-infra/sandbox](https://github.com/agent-infra/sandbox)<br>
-13. 🤝 Became collaborator on [scalebox-dev/scalebox-docs](https://github.com/scalebox-dev/scalebox-docs)<br>
-14. ⭐ Starred [vercel/ai](https://github.com/vercel/ai)<br>
-15. ⭐ Starred [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)<br>
-16. ⭐ Starred [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector)<br>
-17. ⭐ Starred [microsoft/autogen](https://github.com/microsoft/autogen)<br>
-18. ⭐ Starred [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)<br>
-19. ⭐ Starred [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)<br>
-20. ⭐ Starred [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>
-21. ⭐ Starred [inngest/inngest](https://github.com/inngest/inngest)<br>
-22. ⭐ Starred [mintlify/starter](https://github.com/mintlify/starter)<br>
-23. 🤝 Became collaborator on [scalebox-dev/smolagents](https://github.com/scalebox-dev/smolagents)<br>
-24. 🤝 Became collaborator on [scalebox-dev/scalebox-cookbook](https://github.com/scalebox-dev/scalebox-cookbook)<br>
-25. 🤝 Became collaborator on [scalebox-dev/scalebox-sdk-js](https://github.com/scalebox-dev/scalebox-sdk-js)<br>
-26. 🤝 Became collaborator on [scalebox-dev/scalebox-sdk-python](https://github.com/scalebox-dev/scalebox-sdk-python)<br>
-27. ⭐ Starred [refly-ai/refly](https://github.com/refly-ai/refly)<br>
-28. 🔱 Forked [tcitry/BettaFish](https://github.com/tcitry/BettaFish) from [tcitry/BettaFish](https://github.com/tcitry/BettaFish)<br>
-29. ⭐ Starred [666ghj/BettaFish](https://github.com/666ghj/BettaFish)<br>
-30. ⭐ Starred [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk)<br>
-31. ⭐ Starred [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>
-32. ⭐ Starred [neondatabase/neon](https://github.com/neondatabase/neon)<br>
-33. ⭐ Starred [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)<br>
-34. ⭐ Starred [Geniusay/ChopperBot](https://github.com/Geniusay/ChopperBot)<br>
-35. ⭐ Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)<br>
-36. ⭐ Starred [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)<br>
-37. ⭐ Starred [e2b-dev/dashboard](https://github.com/e2b-dev/dashboard)<br>
-38. ⭐ Starred [vercel/turborepo](https://github.com/vercel/turborepo)<br>
-39. ⭐ Starred [vercel/next-forge](https://github.com/vercel/next-forge)<br>
-40. ⭐ Starred [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)<br>
-41. ⭐ Starred [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)<br>
-42. ⭐ Starred [e2b-dev/fragments](https://github.com/e2b-dev/fragments)<br>
-43. ⭐ Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)<br>
-44. ⭐ Starred [huggingface/smolagents](https://github.com/huggingface/smolagents)<br>
-45. ⭐ Starred [volcengine/MineContext](https://github.com/volcengine/MineContext)<br>
-46. ⭐ Starred [e2b-dev/E2B](https://github.com/e2b-dev/E2B)<br>
-47. ⭐ Starred [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher)<br>
-48. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
-49. ⭐ Starred [slint-ui/slint](https://github.com/slint-ui/slint)<br>
-50. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)<br>
+1. ⭐ Starred [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)<br>
+2. ⭐ Starred [pdsuwwz/nextjs-nextra-starter](https://github.com/pdsuwwz/nextjs-nextra-starter)<br>
+3. ⭐ Starred [goharbor/harbor](https://github.com/goharbor/harbor)<br>
+4. ⭐ Starred [jlowin/fastmcp](https://github.com/jlowin/fastmcp)<br>
+5. ⭐ Starred [remix-run/react-router](https://github.com/remix-run/react-router)<br>
+6. ⭐ Starred [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)<br>
+7. 👍 Approved [#1](https://github.com/tcitry/nextra-demo/pull/1#pullrequestreview-3443345251) in [tcitry/nextra-demo](https://github.com/tcitry/nextra-demo)<br>
+8. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)<br>
+9. ⭐ Starred [vercel/nextjs-stripe-template](https://github.com/vercel/nextjs-stripe-template)<br>
+10. ⭐ Starred [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS)<br>
+11. ⭐ Starred [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)<br>
+12. ⭐ Starred [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)<br>
+13. ⭐ Starred [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)<br>
+14. ⭐ Starred [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)<br>
+15. ⭐ Starred [agent-infra/sandbox](https://github.com/agent-infra/sandbox)<br>
+16. 🤝 Became collaborator on [scalebox-dev/scalebox-docs](https://github.com/scalebox-dev/scalebox-docs)<br>
+17. ⭐ Starred [vercel/ai](https://github.com/vercel/ai)<br>
+18. ⭐ Starred [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)<br>
+19. ⭐ Starred [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector)<br>
+20. ⭐ Starred [microsoft/autogen](https://github.com/microsoft/autogen)<br>
+21. ⭐ Starred [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)<br>
+22. ⭐ Starred [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)<br>
+23. ⭐ Starred [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)<br>
+24. ⭐ Starred [inngest/inngest](https://github.com/inngest/inngest)<br>
+25. ⭐ Starred [mintlify/starter](https://github.com/mintlify/starter)<br>
+26. 🤝 Became collaborator on [scalebox-dev/smolagents](https://github.com/scalebox-dev/smolagents)<br>
+27. 🤝 Became collaborator on [scalebox-dev/scalebox-cookbook](https://github.com/scalebox-dev/scalebox-cookbook)<br>
+28. 🤝 Became collaborator on [scalebox-dev/scalebox-sdk-js](https://github.com/scalebox-dev/scalebox-sdk-js)<br>
+29. 🤝 Became collaborator on [scalebox-dev/scalebox-sdk-python](https://github.com/scalebox-dev/scalebox-sdk-python)<br>
+30. ⭐ Starred [refly-ai/refly](https://github.com/refly-ai/refly)<br>
+31. 🔱 Forked [tcitry/BettaFish](https://github.com/tcitry/BettaFish) from [tcitry/BettaFish](https://github.com/tcitry/BettaFish)<br>
+32. ⭐ Starred [666ghj/BettaFish](https://github.com/666ghj/BettaFish)<br>
+33. ⭐ Starred [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk)<br>
+34. ⭐ Starred [pulumi/pulumi](https://github.com/pulumi/pulumi)<br>
+35. ⭐ Starred [neondatabase/neon](https://github.com/neondatabase/neon)<br>
+36. ⭐ Starred [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)<br>
+37. ⭐ Starred [Geniusay/ChopperBot](https://github.com/Geniusay/ChopperBot)<br>
+38. ⭐ Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)<br>
+39. ⭐ Starred [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)<br>
+40. ⭐ Starred [e2b-dev/dashboard](https://github.com/e2b-dev/dashboard)<br>
+41. ⭐ Starred [vercel/turborepo](https://github.com/vercel/turborepo)<br>
+42. ⭐ Starred [vercel/next-forge](https://github.com/vercel/next-forge)<br>
+43. ⭐ Starred [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)<br>
+44. ⭐ Starred [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)<br>
+45. ⭐ Starred [e2b-dev/fragments](https://github.com/e2b-dev/fragments)<br>
+46. ⭐ Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)<br>
+47. ⭐ Starred [huggingface/smolagents](https://github.com/huggingface/smolagents)<br>
+48. ⭐ Starred [volcengine/MineContext](https://github.com/volcengine/MineContext)<br>
+49. ⭐ Starred [e2b-dev/E2B](https://github.com/e2b-dev/E2B)<br>
+50. ⭐ Starred [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
