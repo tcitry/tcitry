@@ -1,56 +1,56 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)<br>
-2. ⭐ Starred [swc-project/swc](https://github.com/swc-project/swc)<br>
-3. ⭐ Starred [vercel/vercel](https://github.com/vercel/vercel)<br>
-4. ⭐ Starred [zeromicro/go-zero](https://github.com/zeromicro/go-zero)<br>
-5. ⭐ Starred [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore)<br>
-6. ⭐ Starred [pulumi/examples](https://github.com/pulumi/examples)<br>
-7. ⭐ Starred [xun082/DocFlow](https://github.com/xun082/DocFlow)<br>
-8. ⭐ Starred [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)<br>
-9. ⭐ Starred [InsForge/InsForge](https://github.com/InsForge/InsForge)<br>
-10. 🔱 Forked [tcitry/skyvern](https://github.com/tcitry/skyvern) from [tcitry/skyvern](https://github.com/tcitry/skyvern)<br>
-11. ⭐ Starred [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)<br>
-12. ⭐ Starred [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)<br>
-13. ⭐ Starred [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)<br>
-14. ⭐ Starred [thuliteio/doks](https://github.com/thuliteio/doks)<br>
-15. ⭐ Starred [kieranb662/Sliders-SwiftUI](https://github.com/kieranb662/Sliders-SwiftUI)<br>
-16. ⭐ Starred [argoproj/argo-cd](https://github.com/argoproj/argo-cd)<br>
-17. ⭐ Starred [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss)<br>
-18. ⭐ Starred [shikijs/shiki](https://github.com/shikijs/shiki)<br>
-19. ⭐ Starred [context-labs/autodoc](https://github.com/context-labs/autodoc)<br>
-20. ⭐ Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)<br>
-21. ⭐ Starred [mintlify/writer](https://github.com/mintlify/writer)<br>
-22. ⭐ Starred [vitest-dev/vitest](https://github.com/vitest-dev/vitest)<br>
-23. ⭐ Starred [context-labs/aella-data-explorer](https://github.com/context-labs/aella-data-explorer)<br>
-24. ⭐ Starred [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)<br>
-25. ⭐ Starred [sst/openauth](https://github.com/sst/openauth)<br>
-26. ⭐ Starred [honojs/hono](https://github.com/honojs/hono)<br>
-27. ⭐ Starred [fogsightai/fogsight](https://github.com/fogsightai/fogsight)<br>
-28. 💪 Opened PR [#1](undefined) in [scalebox-dev/scalebox-cookbook](https://github.com/scalebox-dev/scalebox-cookbook)<br>
-29. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)<br>
-30. ⭐ Starred [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild)<br>
-31. ⭐ Starred [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress)<br>
-32. ⭐ Starred [browser-use/browser-use](https://github.com/browser-use/browser-use)<br>
-33. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
-34. ⭐ Starred [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all)<br>
-35. ⭐ Starred [anthropics/skills](https://github.com/anthropics/skills)<br>
-36. ⭐ Starred [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)<br>
-37. ⭐ Starred [pdsuwwz/nextjs-nextra-starter](https://github.com/pdsuwwz/nextjs-nextra-starter)<br>
-38. ⭐ Starred [goharbor/harbor](https://github.com/goharbor/harbor)<br>
-39. ⭐ Starred [jlowin/fastmcp](https://github.com/jlowin/fastmcp)<br>
-40. ⭐ Starred [remix-run/react-router](https://github.com/remix-run/react-router)<br>
-41. ⭐ Starred [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)<br>
-42. 👍 Approved [#1](https://github.com/tcitry/nextra-demo/pull/1#pullrequestreview-3443345251) in [tcitry/nextra-demo](https://github.com/tcitry/nextra-demo)<br>
-43. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)<br>
-44. ⭐ Starred [vercel/nextjs-stripe-template](https://github.com/vercel/nextjs-stripe-template)<br>
-45. ⭐ Starred [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS)<br>
-46. ⭐ Starred [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)<br>
-47. ⭐ Starred [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)<br>
-48. ⭐ Starred [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)<br>
-49. ⭐ Starred [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)<br>
-50. ⭐ Starred [agent-infra/sandbox](https://github.com/agent-infra/sandbox)<br>
+1. ⭐ Starred [sansan0/mao-map](https://github.com/sansan0/mao-map)<br>
+2. ⭐ Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)<br>
+3. ⭐ Starred [biomejs/biome](https://github.com/biomejs/biome)<br>
+4. ⭐ Starred [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai)<br>
+5. ⭐ Starred [swc-project/swc](https://github.com/swc-project/swc)<br>
+6. ⭐ Starred [vercel/vercel](https://github.com/vercel/vercel)<br>
+7. ⭐ Starred [zeromicro/go-zero](https://github.com/zeromicro/go-zero)<br>
+8. ⭐ Starred [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore)<br>
+9. ⭐ Starred [pulumi/examples](https://github.com/pulumi/examples)<br>
+10. ⭐ Starred [xun082/DocFlow](https://github.com/xun082/DocFlow)<br>
+11. ⭐ Starred [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)<br>
+12. ⭐ Starred [InsForge/InsForge](https://github.com/InsForge/InsForge)<br>
+13. 🔱 Forked [tcitry/skyvern](https://github.com/tcitry/skyvern) from [tcitry/skyvern](https://github.com/tcitry/skyvern)<br>
+14. ⭐ Starred [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)<br>
+15. ⭐ Starred [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)<br>
+16. ⭐ Starred [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)<br>
+17. ⭐ Starred [thuliteio/doks](https://github.com/thuliteio/doks)<br>
+18. ⭐ Starred [kieranb662/Sliders-SwiftUI](https://github.com/kieranb662/Sliders-SwiftUI)<br>
+19. ⭐ Starred [argoproj/argo-cd](https://github.com/argoproj/argo-cd)<br>
+20. ⭐ Starred [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss)<br>
+21. ⭐ Starred [shikijs/shiki](https://github.com/shikijs/shiki)<br>
+22. ⭐ Starred [context-labs/autodoc](https://github.com/context-labs/autodoc)<br>
+23. ⭐ Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)<br>
+24. ⭐ Starred [mintlify/writer](https://github.com/mintlify/writer)<br>
+25. ⭐ Starred [vitest-dev/vitest](https://github.com/vitest-dev/vitest)<br>
+26. ⭐ Starred [context-labs/aella-data-explorer](https://github.com/context-labs/aella-data-explorer)<br>
+27. ⭐ Starred [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)<br>
+28. ⭐ Starred [sst/openauth](https://github.com/sst/openauth)<br>
+29. ⭐ Starred [honojs/hono](https://github.com/honojs/hono)<br>
+30. ⭐ Starred [fogsightai/fogsight](https://github.com/fogsightai/fogsight)<br>
+31. 💪 Opened PR [#1](undefined) in [scalebox-dev/scalebox-cookbook](https://github.com/scalebox-dev/scalebox-cookbook)<br>
+32. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)<br>
+33. ⭐ Starred [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild)<br>
+34. ⭐ Starred [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress)<br>
+35. ⭐ Starred [browser-use/browser-use](https://github.com/browser-use/browser-use)<br>
+36. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
+37. ⭐ Starred [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all)<br>
+38. ⭐ Starred [anthropics/skills](https://github.com/anthropics/skills)<br>
+39. ⭐ Starred [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)<br>
+40. ⭐ Starred [pdsuwwz/nextjs-nextra-starter](https://github.com/pdsuwwz/nextjs-nextra-starter)<br>
+41. ⭐ Starred [goharbor/harbor](https://github.com/goharbor/harbor)<br>
+42. ⭐ Starred [jlowin/fastmcp](https://github.com/jlowin/fastmcp)<br>
+43. ⭐ Starred [remix-run/react-router](https://github.com/remix-run/react-router)<br>
+44. ⭐ Starred [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)<br>
+45. 👍 Approved [#1](https://github.com/tcitry/nextra-demo/pull/1#pullrequestreview-3443345251) in [tcitry/nextra-demo](https://github.com/tcitry/nextra-demo)<br>
+46. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)<br>
+47. ⭐ Starred [vercel/nextjs-stripe-template](https://github.com/vercel/nextjs-stripe-template)<br>
+48. ⭐ Starred [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS)<br>
+49. ⭐ Starred [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)<br>
+50. ⭐ Starred [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
