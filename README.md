@@ -48,9 +48,6 @@
 45. ⭐ Starred [GCWing/BitFun](https://github.com/GCWing/BitFun)<br>
 46. ⭐ Starred [WaveSpeedAI/waverless](https://github.com/WaveSpeedAI/waverless)<br>
 47. ⭐ Starred [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)<br>
-48. ⭐ Starred [get-convex/templates](https://github.com/get-convex/templates)<br>
-49. ⭐ Starred [get-convex/convex-backend](https://github.com/get-convex/convex-backend)<br>
-50. ⭐ Starred [vercel/v0-sdk](https://github.com/vercel/v0-sdk)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
