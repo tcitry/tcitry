@@ -45,8 +45,6 @@
 42. ⭐ Starred [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components)<br>
 43. ⭐ Starred [debug-js/debug](https://github.com/debug-js/debug)<br>
 44. ⭐ Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)<br>
-45. ⭐ Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)<br>
-46. ⭐ Starred [GCWing/BitFun](https://github.com/GCWing/BitFun)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
