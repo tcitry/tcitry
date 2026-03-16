@@ -42,9 +42,6 @@
 39. ⭐ Starred [get-convex/chef](https://github.com/get-convex/chef)<br>
 40. ⭐ Starred [mantinedev/mantine](https://github.com/mantinedev/mantine)<br>
 41. ⭐ Starred [tursodatabase/turso](https://github.com/tursodatabase/turso)<br>
-42. ⭐ Starred [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components)<br>
-43. ⭐ Starred [debug-js/debug](https://github.com/debug-js/debug)<br>
-44. ⭐ Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
