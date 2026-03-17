@@ -41,7 +41,6 @@
 38. ⭐ Starred [get-convex/convex-demos](https://github.com/get-convex/convex-demos)<br>
 39. ⭐ Starred [get-convex/chef](https://github.com/get-convex/chef)<br>
 40. ⭐ Starred [mantinedev/mantine](https://github.com/mantinedev/mantine)<br>
-41. ⭐ Starred [tursodatabase/turso](https://github.com/tursodatabase/turso)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
