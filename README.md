@@ -38,9 +38,6 @@
 35. ⭐ Starred [letta-ai/letta-code](https://github.com/letta-ai/letta-code)<br>
 36. ⭐ Starred [cloudflare/moltworker](https://github.com/cloudflare/moltworker)<br>
 37. ⭐ Starred [get-convex/v1](https://github.com/get-convex/v1)<br>
-38. ⭐ Starred [get-convex/convex-demos](https://github.com/get-convex/convex-demos)<br>
-39. ⭐ Starred [get-convex/chef](https://github.com/get-convex/chef)<br>
-40. ⭐ Starred [mantinedev/mantine](https://github.com/mantinedev/mantine)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
