@@ -38,8 +38,6 @@
 35. ⭐ Starred [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)<br>
 36. ⭐ Starred [getmaxun/maxun](https://github.com/getmaxun/maxun)<br>
 37. ⭐ Starred [letta-ai/letta-code](https://github.com/letta-ai/letta-code)<br>
-38. ⭐ Starred [cloudflare/moltworker](https://github.com/cloudflare/moltworker)<br>
-39. ⭐ Starred [get-convex/v1](https://github.com/get-convex/v1)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
