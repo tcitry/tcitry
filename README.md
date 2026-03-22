@@ -41,7 +41,6 @@
 38. ⭐ Starred [MindDock/sport-vision](https://github.com/MindDock/sport-vision)<br>
 39. ⭐ Starred [chartdb/chartdb](https://github.com/chartdb/chartdb)<br>
 40. ⭐ Starred [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)<br>
-41. ⭐ Starred [getmaxun/maxun](https://github.com/getmaxun/maxun)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
