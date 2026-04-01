@@ -35,7 +35,6 @@
 32. ⭐ Starred [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)<br>
 33. ⭐ Starred [containers/podman](https://github.com/containers/podman)<br>
 34. ⭐ Starred [ruvnet/ruflo](https://github.com/ruvnet/ruflo)<br>
-35. ⭐ Starred [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
