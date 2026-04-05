@@ -33,8 +33,6 @@
 30. ⭐ Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)<br>
 31. ⭐ Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)<br>
 32. ⭐ Starred [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)<br>
-33. ⭐ Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)<br>
-34. ⭐ Starred [pgsty/pigsty](https://github.com/pgsty/pigsty)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
