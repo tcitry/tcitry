@@ -32,7 +32,6 @@
 29. ⭐ Starred [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)<br>
 30. ⭐ Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)<br>
 31. ⭐ Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)<br>
-32. ⭐ Starred [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
