@@ -31,7 +31,6 @@
 28. ⭐ Starred [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)<br>
 29. ⭐ Starred [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane)<br>
 30. ⭐ Starred [alibaba/page-agent](https://github.com/alibaba/page-agent)<br>
-31. ⭐ Starred [m1k1o/neko](https://github.com/m1k1o/neko)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
