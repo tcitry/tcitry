@@ -1,36 +1,37 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dodopayments/billingsdk](https://github.com/dodopayments/billingsdk)<br>
-2. ⭐ Starred [hhoao/huji](https://github.com/hhoao/huji)<br>
-3. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
-4. ⭐ Starred [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)<br>
-5. ⭐ Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)<br>
-6. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br>
-7. ⭐ Starred [pheralb/svgl](https://github.com/pheralb/svgl)<br>
-8. ⭐ Starred [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune)<br>
-9. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)<br>
-10. ⭐ Starred [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam)<br>
-11. ⭐ Starred [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills)<br>
-12. ⭐ Starred [cft0808/edict](https://github.com/cft0808/edict)<br>
-13. ⭐ Starred [vercel-labs/openreview](https://github.com/vercel-labs/openreview)<br>
-14. ⭐ Starred [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent)<br>
-15. ⭐ Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br>
-16. ⭐ Starred [pascalorg/editor](https://github.com/pascalorg/editor)<br>
-17. ⭐ Starred [nexu-io/nexu](https://github.com/nexu-io/nexu)<br>
-18. ⭐ Starred [Nearcyan/vibecraft](https://github.com/Nearcyan/vibecraft)<br>
-19. ⭐ Starred [signerlabs/ShipSwift](https://github.com/signerlabs/ShipSwift)<br>
-20. ⭐ Starred [cloudflare/templates](https://github.com/cloudflare/templates)<br>
-21. ⭐ Starred [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk)<br>
-22. ⭐ Starred [cloudflare/mcp](https://github.com/cloudflare/mcp)<br>
-23. ⭐ Starred [partykit/partykit](https://github.com/partykit/partykit)<br>
-24. ⭐ Starred [Nutlope/logocreator](https://github.com/Nutlope/logocreator)<br>
-25. ⭐ Starred [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)<br>
-26. 🤝 Became collaborator on [scalebox-dev/scalebox-skills](https://github.com/scalebox-dev/scalebox-skills)<br>
-27. ⭐ Starred [k3s-io/k3s](https://github.com/k3s-io/k3s)<br>
-28. ⭐ Starred [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)<br>
-29. ⭐ Starred [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane)<br>
-30. ⭐ Starred [alibaba/page-agent](https://github.com/alibaba/page-agent)<br>
+1. 🤝 Became collaborator on [scalebox-dev/scalebox-blog](https://github.com/scalebox-dev/scalebox-blog)<br>
+2. ⭐ Starred [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)<br>
+3. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
+4. ⭐ Starred [dodopayments/billingsdk](https://github.com/dodopayments/billingsdk)<br>
+5. ⭐ Starred [hhoao/huji](https://github.com/hhoao/huji)<br>
+6. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
+7. ⭐ Starred [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)<br>
+8. ⭐ Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)<br>
+9. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br>
+10. ⭐ Starred [pheralb/svgl](https://github.com/pheralb/svgl)<br>
+11. ⭐ Starred [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune)<br>
+12. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)<br>
+13. ⭐ Starred [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam)<br>
+14. ⭐ Starred [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills)<br>
+15. ⭐ Starred [cft0808/edict](https://github.com/cft0808/edict)<br>
+16. ⭐ Starred [vercel-labs/openreview](https://github.com/vercel-labs/openreview)<br>
+17. ⭐ Starred [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent)<br>
+18. ⭐ Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br>
+19. ⭐ Starred [pascalorg/editor](https://github.com/pascalorg/editor)<br>
+20. ⭐ Starred [nexu-io/nexu](https://github.com/nexu-io/nexu)<br>
+21. ⭐ Starred [Nearcyan/vibecraft](https://github.com/Nearcyan/vibecraft)<br>
+22. ⭐ Starred [signerlabs/ShipSwift](https://github.com/signerlabs/ShipSwift)<br>
+23. ⭐ Starred [cloudflare/templates](https://github.com/cloudflare/templates)<br>
+24. ⭐ Starred [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk)<br>
+25. ⭐ Starred [cloudflare/mcp](https://github.com/cloudflare/mcp)<br>
+26. ⭐ Starred [partykit/partykit](https://github.com/partykit/partykit)<br>
+27. ⭐ Starred [Nutlope/logocreator](https://github.com/Nutlope/logocreator)<br>
+28. ⭐ Starred [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)<br>
+29. 🤝 Became collaborator on [scalebox-dev/scalebox-skills](https://github.com/scalebox-dev/scalebox-skills)<br>
+30. ⭐ Starred [k3s-io/k3s](https://github.com/k3s-io/k3s)<br>
+31. ⭐ Starred [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
