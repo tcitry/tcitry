@@ -41,7 +41,6 @@
 38. ⭐ Starred [partykit/partykit](https://github.com/partykit/partykit)<br>
 39. ⭐ Starred [Nutlope/logocreator](https://github.com/Nutlope/logocreator)<br>
 40. ⭐ Starred [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)<br>
-41. 🤝 Became collaborator on [scalebox-dev/scalebox-skills](https://github.com/scalebox-dev/scalebox-skills)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
