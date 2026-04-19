@@ -40,7 +40,6 @@
 37. ⭐ Starred [cloudflare/mcp](https://github.com/cloudflare/mcp)<br>
 38. ⭐ Starred [partykit/partykit](https://github.com/partykit/partykit)<br>
 39. ⭐ Starred [Nutlope/logocreator](https://github.com/Nutlope/logocreator)<br>
-40. ⭐ Starred [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
