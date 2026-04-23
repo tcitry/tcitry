@@ -37,7 +37,6 @@
 34. ⭐ Starred [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent)<br>
 35. ⭐ Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br>
 36. ⭐ Starred [pascalorg/editor](https://github.com/pascalorg/editor)<br>
-37. ⭐ Starred [nexu-io/nexu](https://github.com/nexu-io/nexu)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
