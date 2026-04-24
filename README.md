@@ -36,7 +36,6 @@
 33. ⭐ Starred [vercel-labs/openreview](https://github.com/vercel-labs/openreview)<br>
 34. ⭐ Starred [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent)<br>
 35. ⭐ Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br>
-36. ⭐ Starred [pascalorg/editor](https://github.com/pascalorg/editor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
