@@ -11,7 +11,7 @@
 8. ⭐ Starred [canyie/pine](https://github.com/canyie/pine)<br>
 9. ⭐ Starred [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)<br>
 10. ⭐ Starred [imaiwork/IMAI.WORK-AI-Phone](https://github.com/imaiwork/IMAI.WORK-AI-Phone)<br>
-11. ⭐ Starred [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab)<br>
+11. ⭐ Starred [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab)<br>
 12. ⭐ Starred [xlrpa/FlowBot](https://github.com/xlrpa/FlowBot)<br>
 13. ⭐ Starred [mochat-cloud/mochat](https://github.com/mochat-cloud/mochat)<br>
 14. ⭐ Starred [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio)<br>
@@ -35,7 +35,6 @@
 32. ⭐ Starred [cft0808/edict](https://github.com/cft0808/edict)<br>
 33. ⭐ Starred [vercel-labs/openreview](https://github.com/vercel-labs/openreview)<br>
 34. ⭐ Starred [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent)<br>
-35. ⭐ Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
