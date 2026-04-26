@@ -31,10 +31,6 @@
 28. ⭐ Starred [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune)<br>
 29. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)<br>
 30. ⭐ Starred [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam)<br>
-31. ⭐ Starred [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills)<br>
-32. ⭐ Starred [cft0808/edict](https://github.com/cft0808/edict)<br>
-33. ⭐ Starred [vercel-labs/openreview](https://github.com/vercel-labs/openreview)<br>
-34. ⭐ Starred [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
