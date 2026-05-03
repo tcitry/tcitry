@@ -28,8 +28,6 @@
 25. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
 26. ⭐ Starred [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)<br>
 27. ⭐ Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)<br>
-28. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br>
-29. ⭐ Starred [pheralb/svgl](https://github.com/pheralb/svgl)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
