@@ -26,8 +26,6 @@
 23. ⭐ Starred [dodopayments/billingsdk](https://github.com/dodopayments/billingsdk)<br>
 24. ⭐ Starred [hhoao/huji](https://github.com/hhoao/huji)<br>
 25. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
-26. ⭐ Starred [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)<br>
-27. ⭐ Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
