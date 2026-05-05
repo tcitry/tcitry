@@ -1,31 +1,34 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)<br>
-2. ⭐ Starred [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)<br>
-3. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)<br>
-4. ⭐ Starred [multica-ai/multica](https://github.com/multica-ai/multica)<br>
-5. ⭐ Starred [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli)<br>
-6. ⭐ Starred [xiaoju111a/OpenLovart](https://github.com/xiaoju111a/OpenLovart)<br>
-7. ⭐ Starred [deusyu/harness-engineering](https://github.com/deusyu/harness-engineering)<br>
-8. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
-9. ⭐ Starred [liuup/claude-code-analysis](https://github.com/liuup/claude-code-analysis)<br>
-10. ⭐ Starred [canyie/pine](https://github.com/canyie/pine)<br>
-11. ⭐ Starred [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)<br>
-12. ⭐ Starred [imaiwork/IMAI.WORK-AI-Phone](https://github.com/imaiwork/IMAI.WORK-AI-Phone)<br>
-13. ⭐ Starred [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab)<br>
-14. ⭐ Starred [xlrpa/FlowBot](https://github.com/xlrpa/FlowBot)<br>
-15. ⭐ Starred [mochat-cloud/mochat](https://github.com/mochat-cloud/mochat)<br>
-16. ⭐ Starred [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio)<br>
-17. ⭐ Starred [maudzung/TTNet-Real-time-Analysis-System-for-Table-Tennis-Pytorch](https://github.com/maudzung/TTNet-Real-time-Analysis-System-for-Table-Tennis-Pytorch)<br>
-18. ⭐ Starred [hehehai/voxt](https://github.com/hehehai/voxt)<br>
-19. ⭐ Starred [platx-ai/Talk](https://github.com/platx-ai/Talk)<br>
-20. 🤝 Became collaborator on [scalebox-dev/scalebox-blog](https://github.com/scalebox-dev/scalebox-blog)<br>
-21. ⭐ Starred [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)<br>
-22. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-23. ⭐ Starred [dodopayments/billingsdk](https://github.com/dodopayments/billingsdk)<br>
-24. ⭐ Starred [hhoao/huji](https://github.com/hhoao/huji)<br>
-25. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
+1. ⭐ Starred [Nutlope/blinkshot](https://github.com/Nutlope/blinkshot)<br>
+2. ⭐ Starred [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)<br>
+3. ⭐ Starred [tiann/KernelSU](https://github.com/tiann/KernelSU)<br>
+4. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)<br>
+5. ⭐ Starred [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)<br>
+6. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)<br>
+7. ⭐ Starred [multica-ai/multica](https://github.com/multica-ai/multica)<br>
+8. ⭐ Starred [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli)<br>
+9. ⭐ Starred [xiaoju111a/OpenLovart](https://github.com/xiaoju111a/OpenLovart)<br>
+10. ⭐ Starred [deusyu/harness-engineering](https://github.com/deusyu/harness-engineering)<br>
+11. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
+12. ⭐ Starred [liuup/claude-code-analysis](https://github.com/liuup/claude-code-analysis)<br>
+13. ⭐ Starred [canyie/pine](https://github.com/canyie/pine)<br>
+14. ⭐ Starred [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)<br>
+15. ⭐ Starred [imaiwork/IMAI.WORK-AI-Phone](https://github.com/imaiwork/IMAI.WORK-AI-Phone)<br>
+16. ⭐ Starred [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab)<br>
+17. ⭐ Starred [xlrpa/FlowBot](https://github.com/xlrpa/FlowBot)<br>
+18. ⭐ Starred [mochat-cloud/mochat](https://github.com/mochat-cloud/mochat)<br>
+19. ⭐ Starred [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio)<br>
+20. ⭐ Starred [maudzung/TTNet-Real-time-Analysis-System-for-Table-Tennis-Pytorch](https://github.com/maudzung/TTNet-Real-time-Analysis-System-for-Table-Tennis-Pytorch)<br>
+21. ⭐ Starred [hehehai/voxt](https://github.com/hehehai/voxt)<br>
+22. ⭐ Starred [platx-ai/Talk](https://github.com/platx-ai/Talk)<br>
+23. 🤝 Became collaborator on [scalebox-dev/scalebox-blog](https://github.com/scalebox-dev/scalebox-blog)<br>
+24. ⭐ Starred [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)<br>
+25. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
+26. ⭐ Starred [dodopayments/billingsdk](https://github.com/dodopayments/billingsdk)<br>
+27. ⭐ Starred [hhoao/huji](https://github.com/hhoao/huji)<br>
+28. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
