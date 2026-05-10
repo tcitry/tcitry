@@ -29,9 +29,6 @@
 26. ⭐ Starred [maudzung/TTNet-Real-time-Analysis-System-for-Table-Tennis-Pytorch](https://github.com/maudzung/TTNet-Real-time-Analysis-System-for-Table-Tennis-Pytorch)<br>
 27. ⭐ Starred [hehehai/voxt](https://github.com/hehehai/voxt)<br>
 28. ⭐ Starred [platx-ai/Talk](https://github.com/platx-ai/Talk)<br>
-29. 🤝 Became collaborator on [scalebox-dev/scalebox-blog](https://github.com/scalebox-dev/scalebox-blog)<br>
-30. ⭐ Starred [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)<br>
-31. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
