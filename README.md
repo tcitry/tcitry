@@ -26,9 +26,6 @@
 23. ⭐ Starred [xlrpa/FlowBot](https://github.com/xlrpa/FlowBot)<br>
 24. ⭐ Starred [mochat-cloud/mochat](https://github.com/mochat-cloud/mochat)<br>
 25. ⭐ Starred [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio)<br>
-26. ⭐ Starred [maudzung/TTNet-Real-time-Analysis-System-for-Table-Tennis-Pytorch](https://github.com/maudzung/TTNet-Real-time-Analysis-System-for-Table-Tennis-Pytorch)<br>
-27. ⭐ Starred [hehehai/voxt](https://github.com/hehehai/voxt)<br>
-28. ⭐ Starred [platx-ai/Talk](https://github.com/platx-ai/Talk)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
