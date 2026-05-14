@@ -14,7 +14,7 @@
 11. ⭐ Starred [tiann/KernelSU](https://github.com/tiann/KernelSU)<br>
 12. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)<br>
 13. ⭐ Starred [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)<br>
-14. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)<br>
+14. ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)<br>
 15. ⭐ Starred [multica-ai/multica](https://github.com/multica-ai/multica)<br>
 16. ⭐ Starred [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli)<br>
 17. ⭐ Starred [xiaoju111a/OpenLovart](https://github.com/xiaoju111a/OpenLovart)<br>
@@ -22,7 +22,6 @@
 19. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
 20. ⭐ Starred [liuup/claude-code-analysis](https://github.com/liuup/claude-code-analysis)<br>
 21. ⭐ Starred [canyie/pine](https://github.com/canyie/pine)<br>
-22. ⭐ Starred [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
