@@ -35,7 +35,6 @@
 32. ⭐ Starred [multica-ai/multica](https://github.com/multica-ai/multica)<br>
 33. ⭐ Starred [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli)<br>
 34. ⭐ Starred [xiaoju111a/OpenLovart](https://github.com/xiaoju111a/OpenLovart)<br>
-35. ⭐ Starred [deusyu/harness-engineering](https://github.com/deusyu/harness-engineering)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
