@@ -34,7 +34,6 @@
 31. ⭐ Starred [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)<br>
 32. ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)<br>
 33. ⭐ Starred [multica-ai/multica](https://github.com/multica-ai/multica)<br>
-34. ⭐ Starred [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
