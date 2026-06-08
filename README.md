@@ -45,9 +45,6 @@
 42. ⭐ Starred [cosscom/coss](https://github.com/cosscom/coss)<br>
 43. ⭐ Starred [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)<br>
 44. ⭐ Starred [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)<br>
-45. ⭐ Starred [getzep/graphiti](https://github.com/getzep/graphiti)<br>
-46. ⭐ Starred [MemPalace/mempalace](https://github.com/MemPalace/mempalace)<br>
-47. ⭐ Starred [getzep/zep](https://github.com/getzep/zep)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
