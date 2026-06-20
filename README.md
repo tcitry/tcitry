@@ -34,7 +34,6 @@
 31. ⭐ Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)<br>
 32. ⭐ Starred [chenglou/pretext](https://github.com/chenglou/pretext)<br>
 33. ⭐ Starred [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)<br>
-34. ⭐ Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
