@@ -35,7 +35,6 @@
 32. ⭐ Starred [snap-research/locomo](https://github.com/snap-research/locomo)<br>
 33. ⭐ Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)<br>
 34. ⭐ Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)<br>
-35. ⭐ Starred [chenglou/pretext](https://github.com/chenglou/pretext)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
