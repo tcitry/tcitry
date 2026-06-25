@@ -34,7 +34,6 @@
 31. ⭐ Starred [udecode/kitcn](https://github.com/udecode/kitcn)<br>
 32. ⭐ Starred [snap-research/locomo](https://github.com/snap-research/locomo)<br>
 33. ⭐ Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)<br>
-34. ⭐ Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
