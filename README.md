@@ -30,10 +30,6 @@
 27. ⭐ Starred [xiaowu0162/awesome-long-memory](https://github.com/xiaowu0162/awesome-long-memory)<br>
 28. ⭐ Starred [openai/codex](https://github.com/openai/codex)<br>
 29. ⭐ Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)<br>
-30. ⭐ Starred [glitternetwork/pinme](https://github.com/glitternetwork/pinme)<br>
-31. ⭐ Starred [udecode/kitcn](https://github.com/udecode/kitcn)<br>
-32. ⭐ Starred [snap-research/locomo](https://github.com/snap-research/locomo)<br>
-33. ⭐ Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
