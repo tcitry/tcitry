@@ -28,7 +28,6 @@
 25. ⭐ Starred [playcanvas/supersplat](https://github.com/playcanvas/supersplat)<br>
 26. ⭐ Starred [openai/simple-evals](https://github.com/openai/simple-evals)<br>
 27. ⭐ Starred [twentyhq/twenty](https://github.com/twentyhq/twenty)<br>
-28. ⭐ Starred [xiaowu0162/awesome-long-memory](https://github.com/xiaowu0162/awesome-long-memory)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
