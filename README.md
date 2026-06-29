@@ -1,33 +1,32 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [luozhiyun993/luozhiyun-SourceLearn](https://github.com/luozhiyun993/luozhiyun-SourceLearn)<br>
-2. ⭐ Starred [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)<br>
-3. ⭐ Starred [withastro/flue](https://github.com/withastro/flue)<br>
-4. ⭐ Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)<br>
-5. ⭐ Starred [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)<br>
-6. ⭐ Starred [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)<br>
-7. ⭐ Starred [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)<br>
-8. ⭐ Starred [juliangarnier/anime](https://github.com/juliangarnier/anime)<br>
-9. ⭐ Starred [novuhq/novu](https://github.com/novuhq/novu)<br>
-10. ⭐ Starred [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)<br>
-11. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
-12. ⭐ Starred [winfunc/opcode](https://github.com/winfunc/opcode)<br>
-13. ⭐ Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>
-14. ⭐ Starred [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)<br>
-15. ⭐ Starred [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)<br>
-16. ⭐ Starred [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)<br>
-17. ⭐ Starred [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)<br>
-18. ⭐ Starred [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui)<br>
-19. ⭐ Starred [Nutlope/open-deep-research](https://github.com/Nutlope/open-deep-research)<br>
-20. ⭐ Starred [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)<br>
-21. ⭐ Starred [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x)<br>
-22. ⭐ Starred [bytedance/trae-agent](https://github.com/bytedance/trae-agent)<br>
-23. 🤝 Became collaborator on [scalebox-dev/scalebox-kata-v1](https://github.com/scalebox-dev/scalebox-kata-v1)<br>
-24. ⭐ Starred [libtv-labs/libtv-skills](https://github.com/libtv-labs/libtv-skills)<br>
-25. ⭐ Starred [playcanvas/supersplat](https://github.com/playcanvas/supersplat)<br>
-26. ⭐ Starred [openai/simple-evals](https://github.com/openai/simple-evals)<br>
-27. ⭐ Starred [twentyhq/twenty](https://github.com/twentyhq/twenty)<br>
+1. ⭐ Starred [medusajs/medusa](https://github.com/medusajs/medusa)<br>
+2. ⭐ Starred [luozhiyun993/luozhiyun-SourceLearn](https://github.com/luozhiyun993/luozhiyun-SourceLearn)<br>
+3. ⭐ Starred [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)<br>
+4. ⭐ Starred [withastro/flue](https://github.com/withastro/flue)<br>
+5. ⭐ Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)<br>
+6. ⭐ Starred [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)<br>
+7. ⭐ Starred [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)<br>
+8. ⭐ Starred [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)<br>
+9. ⭐ Starred [juliangarnier/anime](https://github.com/juliangarnier/anime)<br>
+10. ⭐ Starred [novuhq/novu](https://github.com/novuhq/novu)<br>
+11. ⭐ Starred [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)<br>
+12. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
+13. ⭐ Starred [winfunc/opcode](https://github.com/winfunc/opcode)<br>
+14. ⭐ Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>
+15. ⭐ Starred [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)<br>
+16. ⭐ Starred [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)<br>
+17. ⭐ Starred [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)<br>
+18. ⭐ Starred [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)<br>
+19. ⭐ Starred [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui)<br>
+20. ⭐ Starred [Nutlope/open-deep-research](https://github.com/Nutlope/open-deep-research)<br>
+21. ⭐ Starred [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)<br>
+22. ⭐ Starred [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x)<br>
+23. ⭐ Starred [bytedance/trae-agent](https://github.com/bytedance/trae-agent)<br>
+24. 🤝 Became collaborator on [scalebox-dev/scalebox-kata-v1](https://github.com/scalebox-dev/scalebox-kata-v1)<br>
+25. ⭐ Starred [libtv-labs/libtv-skills](https://github.com/libtv-labs/libtv-skills)<br>
+26. ⭐ Starred [playcanvas/supersplat](https://github.com/playcanvas/supersplat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
