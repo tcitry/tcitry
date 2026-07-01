@@ -25,8 +25,6 @@
 22. ⭐ Starred [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x)<br>
 23. ⭐ Starred [bytedance/trae-agent](https://github.com/bytedance/trae-agent)<br>
 24. 🤝 Became collaborator on [scalebox-dev/scalebox-kata-v1](https://github.com/scalebox-dev/scalebox-kata-v1)<br>
-25. ⭐ Starred [libtv-labs/libtv-skills](https://github.com/libtv-labs/libtv-skills)<br>
-26. ⭐ Starred [playcanvas/supersplat](https://github.com/playcanvas/supersplat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
