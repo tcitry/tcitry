@@ -23,8 +23,6 @@
 20. ⭐ Starred [Nutlope/open-deep-research](https://github.com/Nutlope/open-deep-research)<br>
 21. ⭐ Starred [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)<br>
 22. ⭐ Starred [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x)<br>
-23. ⭐ Starred [bytedance/trae-agent](https://github.com/bytedance/trae-agent)<br>
-24. 🤝 Became collaborator on [scalebox-dev/scalebox-kata-v1](https://github.com/scalebox-dev/scalebox-kata-v1)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
