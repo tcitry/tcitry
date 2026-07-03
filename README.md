@@ -20,9 +20,6 @@
 17. ⭐ Starred [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)<br>
 18. ⭐ Starred [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)<br>
 19. ⭐ Starred [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui)<br>
-20. ⭐ Starred [Nutlope/open-deep-research](https://github.com/Nutlope/open-deep-research)<br>
-21. ⭐ Starred [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)<br>
-22. ⭐ Starred [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
