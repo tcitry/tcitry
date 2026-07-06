@@ -1,25 +1,24 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ccfos/nightingale](https://github.com/ccfos/nightingale)<br>
-2. ⭐ Starred [medusajs/medusa](https://github.com/medusajs/medusa)<br>
-3. ⭐ Starred [luozhiyun993/luozhiyun-SourceLearn](https://github.com/luozhiyun993/luozhiyun-SourceLearn)<br>
-4. ⭐ Starred [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)<br>
-5. ⭐ Starred [withastro/flue](https://github.com/withastro/flue)<br>
-6. ⭐ Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)<br>
-7. ⭐ Starred [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)<br>
-8. ⭐ Starred [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)<br>
-9. ⭐ Starred [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)<br>
-10. ⭐ Starred [juliangarnier/anime](https://github.com/juliangarnier/anime)<br>
-11. ⭐ Starred [novuhq/novu](https://github.com/novuhq/novu)<br>
-12. ⭐ Starred [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)<br>
-13. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
-14. ⭐ Starred [winfunc/opcode](https://github.com/winfunc/opcode)<br>
-15. ⭐ Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>
-16. ⭐ Starred [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)<br>
-17. ⭐ Starred [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)<br>
-18. ⭐ Starred [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)<br>
-19. ⭐ Starred [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)<br>
+1. ⭐ Starred [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)<br>
+2. ⭐ Starred [facebook/astryx](https://github.com/facebook/astryx)<br>
+3. ⭐ Starred [ccfos/nightingale](https://github.com/ccfos/nightingale)<br>
+4. ⭐ Starred [medusajs/medusa](https://github.com/medusajs/medusa)<br>
+5. ⭐ Starred [luozhiyun993/luozhiyun-SourceLearn](https://github.com/luozhiyun993/luozhiyun-SourceLearn)<br>
+6. ⭐ Starred [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)<br>
+7. ⭐ Starred [withastro/flue](https://github.com/withastro/flue)<br>
+8. ⭐ Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)<br>
+9. ⭐ Starred [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)<br>
+10. ⭐ Starred [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)<br>
+11. ⭐ Starred [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)<br>
+12. ⭐ Starred [juliangarnier/anime](https://github.com/juliangarnier/anime)<br>
+13. ⭐ Starred [novuhq/novu](https://github.com/novuhq/novu)<br>
+14. ⭐ Starred [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)<br>
+15. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
+16. ⭐ Starred [winfunc/opcode](https://github.com/winfunc/opcode)<br>
+17. ⭐ Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>
+18. ⭐ Starred [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
