@@ -16,8 +16,6 @@
 13. ⭐ Starred [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)<br>
 14. ⭐ Starred [juliangarnier/anime](https://github.com/juliangarnier/anime)<br>
 15. ⭐ Starred [novuhq/novu](https://github.com/novuhq/novu)<br>
-16. ⭐ Starred [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)<br>
-17. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
