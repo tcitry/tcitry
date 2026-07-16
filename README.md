@@ -1,21 +1,21 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [loro-dev/loro](https://github.com/loro-dev/loro)<br>
-2. ⭐ Starred [tldraw/tldraw-sync-cloudflare](https://github.com/tldraw/tldraw-sync-cloudflare)<br>
-3. ⭐ Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)<br>
-4. ⭐ Starred [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow)<br>
-5. ⭐ Starred [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX)<br>
-6. ⭐ Starred [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)<br>
-7. ⭐ Starred [facebook/astryx](https://github.com/facebook/astryx)<br>
-8. ⭐ Starred [ccfos/nightingale](https://github.com/ccfos/nightingale)<br>
-9. ⭐ Starred [medusajs/medusa](https://github.com/medusajs/medusa)<br>
-10. ⭐ Starred [luozhiyun993/luozhiyun-SourceLearn](https://github.com/luozhiyun993/luozhiyun-SourceLearn)<br>
-11. ⭐ Starred [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)<br>
-12. ⭐ Starred [withastro/flue](https://github.com/withastro/flue)<br>
-13. ⭐ Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)<br>
-14. ⭐ Starred [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)<br>
-15. ⭐ Starred [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)<br>
+1. ⭐ Starred [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents)<br>
+2. ⭐ Starred [loro-dev/loro](https://github.com/loro-dev/loro)<br>
+3. ⭐ Starred [tldraw/tldraw-sync-cloudflare](https://github.com/tldraw/tldraw-sync-cloudflare)<br>
+4. ⭐ Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)<br>
+5. ⭐ Starred [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow)<br>
+6. ⭐ Starred [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX)<br>
+7. ⭐ Starred [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)<br>
+8. ⭐ Starred [facebook/astryx](https://github.com/facebook/astryx)<br>
+9. ⭐ Starred [ccfos/nightingale](https://github.com/ccfos/nightingale)<br>
+10. ⭐ Starred [medusajs/medusa](https://github.com/medusajs/medusa)<br>
+11. ⭐ Starred [luozhiyun993/luozhiyun-SourceLearn](https://github.com/luozhiyun993/luozhiyun-SourceLearn)<br>
+12. ⭐ Starred [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)<br>
+13. ⭐ Starred [withastro/flue](https://github.com/withastro/flue)<br>
+14. ⭐ Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)<br>
+15. ⭐ Starred [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
