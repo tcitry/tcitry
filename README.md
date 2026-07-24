@@ -16,9 +16,6 @@
 13. ⭐ Starred [ccfos/nightingale](https://github.com/ccfos/nightingale)<br>
 14. ⭐ Starred [medusajs/medusa](https://github.com/medusajs/medusa)<br>
 15. ⭐ Starred [luozhiyun993/luozhiyun-SourceLearn](https://github.com/luozhiyun993/luozhiyun-SourceLearn)<br>
-16. ⭐ Starred [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)<br>
-17. ⭐ Starred [withastro/flue](https://github.com/withastro/flue)<br>
-18. ⭐ Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
