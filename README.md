@@ -15,7 +15,6 @@
 12. ⭐ Starred [facebook/astryx](https://github.com/facebook/astryx)<br>
 13. ⭐ Starred [ccfos/nightingale](https://github.com/ccfos/nightingale)<br>
 14. ⭐ Starred [medusajs/medusa](https://github.com/medusajs/medusa)<br>
-15. ⭐ Starred [luozhiyun993/luozhiyun-SourceLearn](https://github.com/luozhiyun993/luozhiyun-SourceLearn)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
