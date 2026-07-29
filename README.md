@@ -1,20 +1,22 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [oso95/scroll-world](https://github.com/oso95/scroll-world)<br>
-2. ⭐ Starred [Augani/openreel-video](https://github.com/Augani/openreel-video)<br>
-3. ⭐ Starred [earendil-works/pi](https://github.com/earendil-works/pi)<br>
-4. ⭐ Starred [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)<br>
-5. ⭐ Starred [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents)<br>
-6. ⭐ Starred [loro-dev/loro](https://github.com/loro-dev/loro)<br>
-7. ⭐ Starred [tldraw/tldraw-sync-cloudflare](https://github.com/tldraw/tldraw-sync-cloudflare)<br>
-8. ⭐ Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)<br>
-9. ⭐ Starred [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow)<br>
-10. ⭐ Starred [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX)<br>
-11. ⭐ Starred [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)<br>
-12. ⭐ Starred [facebook/astryx](https://github.com/facebook/astryx)<br>
-13. ⭐ Starred [ccfos/nightingale](https://github.com/ccfos/nightingale)<br>
-14. ⭐ Starred [medusajs/medusa](https://github.com/medusajs/medusa)<br>
+1. ⭐ Starred [stello-agent/stello](https://github.com/stello-agent/stello)<br>
+2. ⭐ Starred [meepo-it/letsfinddomain-skill](https://github.com/meepo-it/letsfinddomain-skill)<br>
+3. ⭐ Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)<br>
+4. ⭐ Starred [oso95/scroll-world](https://github.com/oso95/scroll-world)<br>
+5. ⭐ Starred [Augani/openreel-video](https://github.com/Augani/openreel-video)<br>
+6. ⭐ Starred [earendil-works/pi](https://github.com/earendil-works/pi)<br>
+7. ⭐ Starred [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)<br>
+8. ⭐ Starred [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents)<br>
+9. ⭐ Starred [loro-dev/loro](https://github.com/loro-dev/loro)<br>
+10. ⭐ Starred [tldraw/tldraw-sync-cloudflare](https://github.com/tldraw/tldraw-sync-cloudflare)<br>
+11. ⭐ Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)<br>
+12. ⭐ Starred [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow)<br>
+13. ⭐ Starred [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX)<br>
+14. ⭐ Starred [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)<br>
+15. ⭐ Starred [facebook/astryx](https://github.com/facebook/astryx)<br>
+16. ⭐ Starred [ccfos/nightingale](https://github.com/ccfos/nightingale)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
