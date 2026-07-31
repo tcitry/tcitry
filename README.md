@@ -1,22 +1,24 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stello-agent/stello](https://github.com/stello-agent/stello)<br>
-2. ⭐ Starred [meepo-it/letsfinddomain-skill](https://github.com/meepo-it/letsfinddomain-skill)<br>
-3. ⭐ Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)<br>
-4. ⭐ Starred [oso95/scroll-world](https://github.com/oso95/scroll-world)<br>
-5. ⭐ Starred [Augani/openreel-video](https://github.com/Augani/openreel-video)<br>
-6. ⭐ Starred [earendil-works/pi](https://github.com/earendil-works/pi)<br>
-7. ⭐ Starred [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)<br>
-8. ⭐ Starred [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents)<br>
-9. ⭐ Starred [loro-dev/loro](https://github.com/loro-dev/loro)<br>
-10. ⭐ Starred [tldraw/tldraw-sync-cloudflare](https://github.com/tldraw/tldraw-sync-cloudflare)<br>
-11. ⭐ Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)<br>
-12. ⭐ Starred [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow)<br>
-13. ⭐ Starred [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX)<br>
-14. ⭐ Starred [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)<br>
-15. ⭐ Starred [facebook/astryx](https://github.com/facebook/astryx)<br>
-16. ⭐ Starred [ccfos/nightingale](https://github.com/ccfos/nightingale)<br>
+1. ⭐ Starred [microsoft/flint-chart](https://github.com/microsoft/flint-chart)<br>
+2. ⭐ Starred [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas)<br>
+3. ⭐ Starred [stello-agent/stello](https://github.com/stello-agent/stello)<br>
+4. ⭐ Starred [meepo-it/letsfinddomain-skill](https://github.com/meepo-it/letsfinddomain-skill)<br>
+5. ⭐ Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)<br>
+6. ⭐ Starred [oso95/scroll-world](https://github.com/oso95/scroll-world)<br>
+7. ⭐ Starred [Augani/openreel-video](https://github.com/Augani/openreel-video)<br>
+8. ⭐ Starred [earendil-works/pi](https://github.com/earendil-works/pi)<br>
+9. ⭐ Starred [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)<br>
+10. ⭐ Starred [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents)<br>
+11. ⭐ Starred [loro-dev/loro](https://github.com/loro-dev/loro)<br>
+12. ⭐ Starred [tldraw/tldraw-sync-cloudflare](https://github.com/tldraw/tldraw-sync-cloudflare)<br>
+13. ⭐ Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)<br>
+14. ⭐ Starred [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow)<br>
+15. ⭐ Starred [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX)<br>
+16. ⭐ Starred [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)<br>
+17. ⭐ Starred [facebook/astryx](https://github.com/facebook/astryx)<br>
+18. ⭐ Starred [ccfos/nightingale](https://github.com/ccfos/nightingale)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
