@@ -18,7 +18,6 @@
 15. ⭐ Starred [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX)<br>
 16. ⭐ Starred [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)<br>
 17. ⭐ Starred [facebook/astryx](https://github.com/facebook/astryx)<br>
-18. ⭐ Starred [ccfos/nightingale](https://github.com/ccfos/nightingale)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
