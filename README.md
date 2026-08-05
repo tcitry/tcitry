@@ -17,8 +17,6 @@
 14. ⭐ Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)<br>
 15. ⭐ Starred [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow)<br>
 16. ⭐ Starred [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX)<br>
-17. ⭐ Starred [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter)<br>
-18. ⭐ Starred [facebook/astryx](https://github.com/facebook/astryx)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
