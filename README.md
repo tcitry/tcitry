@@ -16,7 +16,6 @@
 13. ⭐ Starred [tldraw/tldraw-sync-cloudflare](https://github.com/tldraw/tldraw-sync-cloudflare)<br>
 14. ⭐ Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)<br>
 15. ⭐ Starred [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow)<br>
-16. ⭐ Starred [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
