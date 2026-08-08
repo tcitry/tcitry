@@ -17,7 +17,6 @@
 14. ⭐ Starred [loro-dev/loro](https://github.com/loro-dev/loro)<br>
 15. ⭐ Starred [tldraw/tldraw-sync-cloudflare](https://github.com/tldraw/tldraw-sync-cloudflare)<br>
 16. ⭐ Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)<br>
-17. ⭐ Starred [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
