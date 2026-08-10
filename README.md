@@ -22,6 +22,7 @@
 ### ✈️ Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 Fontsource 管理 Web 字体：从手工字体文件到 npm 依赖](https://yindongliang.com/posts/fontsource-web-fonts/)
 - [Clash Verge Rev、Clash Party 与 Surge Mac 6：macOS 代理客户端怎么选](https://yindongliang.com/posts/Clash-Verge-RevClash-Party-%E4%B8%8E-Surge-Mac-6macOS-%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%80%8E%E4%B9%88%E9%80%89/)
 - [快手 H5 落地页、监测链接、归因与支付的通用实践](https://yindongliang.com/posts/%E5%BF%AB%E6%89%8B-H5-%E8%90%BD%E5%9C%B0%E9%A1%B5%E7%9B%91%E6%B5%8B%E9%93%BE%E6%8E%A5%E5%BD%92%E5%9B%A0%E4%B8%8E%E6%94%AF%E4%BB%98%E7%9A%84%E9%80%9A%E7%94%A8%E5%AE%9E%E8%B7%B5/)
 - [GitHub 组织删除后能恢复吗？](https://yindongliang.com/posts/GitHub-%E7%BB%84%E7%BB%87%E5%88%A0%E9%99%A4%E5%90%8E%E8%83%BD%E6%81%A2%E5%A4%8D%E5%90%97/)
@@ -31,5 +32,4 @@
 - [浏览器 Fetch receiver 陷阱：为什么网络错误可能发生在请求之前](https://yindongliang.com/posts/%E6%B5%8F%E8%A7%88%E5%99%A8-Fetch-receiver-%E9%99%B7%E9%98%B1%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BD%91%E7%BB%9C%E9%94%99%E8%AF%AF%E5%8F%AF%E8%83%BD%E5%8F%91%E7%94%9F%E5%9C%A8%E8%AF%B7%E6%B1%82%E4%B9%8B%E5%89%8D/)
 - [Prometheus 和 ServiceMonitor 介绍](https://yindongliang.com/posts/Prometheus-%E5%92%8C-ServiceMonitor-%E4%BB%8B%E7%BB%8D/)
 - [服务网络与 Service Mesh 详解](https://yindongliang.com/posts/%E6%9C%8D%E5%8A%A1%E7%BD%91%E7%BB%9C%E4%B8%8E-Service-Mesh-%E8%AF%A6%E8%A7%A3/)
-- [Agently Mail CLI：安装、授权与邮件工作流实践](https://yindongliang.com/posts/Agently-Mail-CLI%E5%AE%89%E8%A3%85%E6%8E%88%E6%9D%83%E4%B8%8E%E9%82%AE%E4%BB%B6%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%AE%9E%E8%B7%B5/)
 <!-- BLOG-POST-LIST:END -->
