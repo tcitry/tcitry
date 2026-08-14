@@ -1,24 +1,24 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)<br>
-2. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
-3. ⭐ Starred [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer)<br>
-4. ⭐ Starred [cloudflare/kumo](https://github.com/cloudflare/kumo)<br>
-5. ⭐ Starred [cloudflare/computer](https://github.com/cloudflare/computer)<br>
-6. ⭐ Starred [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)<br>
-7. ⭐ Starred [microsoft/flint-chart](https://github.com/microsoft/flint-chart)<br>
-8. ⭐ Starred [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas)<br>
-9. ⭐ Starred [stello-agent/stello](https://github.com/stello-agent/stello)<br>
-10. ⭐ Starred [meepo-it/letsfinddomain-skill](https://github.com/meepo-it/letsfinddomain-skill)<br>
-11. ⭐ Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)<br>
-12. ⭐ Starred [oso95/scroll-world](https://github.com/oso95/scroll-world)<br>
-13. ⭐ Starred [Augani/openreel-video](https://github.com/Augani/openreel-video)<br>
-14. ⭐ Starred [earendil-works/pi](https://github.com/earendil-works/pi)<br>
-15. ⭐ Starred [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)<br>
-16. ⭐ Starred [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents)<br>
-17. ⭐ Starred [loro-dev/loro](https://github.com/loro-dev/loro)<br>
-18. ⭐ Starred [tldraw/tldraw-sync-cloudflare](https://github.com/tldraw/tldraw-sync-cloudflare)<br>
+1. ⭐ Starred [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)<br>
+2. ⭐ Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)<br>
+3. ⭐ Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)<br>
+4. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
+5. ⭐ Starred [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer)<br>
+6. ⭐ Starred [cloudflare/kumo](https://github.com/cloudflare/kumo)<br>
+7. ⭐ Starred [cloudflare/computer](https://github.com/cloudflare/computer)<br>
+8. ⭐ Starred [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)<br>
+9. ⭐ Starred [microsoft/flint-chart](https://github.com/microsoft/flint-chart)<br>
+10. ⭐ Starred [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas)<br>
+11. ⭐ Starred [stello-agent/stello](https://github.com/stello-agent/stello)<br>
+12. ⭐ Starred [meepo-it/letsfinddomain-skill](https://github.com/meepo-it/letsfinddomain-skill)<br>
+13. ⭐ Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)<br>
+14. ⭐ Starred [oso95/scroll-world](https://github.com/oso95/scroll-world)<br>
+15. ⭐ Starred [Augani/openreel-video](https://github.com/Augani/openreel-video)<br>
+16. ⭐ Starred [earendil-works/pi](https://github.com/earendil-works/pi)<br>
+17. ⭐ Starred [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)<br>
+18. ⭐ Starred [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
