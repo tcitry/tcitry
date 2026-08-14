@@ -24,14 +24,14 @@
 ### ✈️ Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenPencil 源码分析：AI 原生设计编辑器的分层、渲染与协作](https://yindongliang.com/posts/open-pencil-source-code-analysis/)
+- [M2M 认证机制：通用原理与 Clerk M2M Tokens 实践](https://yindongliang.com/posts/m2m-authentication-clerk-tokens/)
+- [中文汉字笔画查询：当前字形与传统姓名学备注的工程实现](https://yindongliang.com/posts/chinese-character-stroke-count-engineering/)
 - [Android Emulator 能调用系统摄像头吗？](https://yindongliang.com/posts/android-emulator-host-webcam/)
-- [Cloudflare Computer 技术解析：持久 Workspace、执行后端与 Agent 集成](https://yindongliang.com/posts/cloudflare-computer-workspace-runtime-agent-integration/)
-- [Convex + TanStack Query：useQuery 与 useSuspenseQuery 的选择、原理与场景](https://yindongliang.com/posts/convex-tanstack-query-usequery-vs-usesuspensequery/)
-- [Convex Components：概念、隔离模型与使用方式](https://yindongliang.com/posts/convex-components-concepts-and-usage/)
-- [TanStack Query v5 基础：从 Server State 到 Query、Mutation 与缓存](https://yindongliang.com/posts/tanstack-query-v5-basics/)
-- [Convex 源码导读：开源仓库版图、核心架构与阅读路线](https://yindongliang.com/posts/convex-open-source-source-guide/)
-- [Sentry 配置实践：前后端项目划分、Logs、Tracing、Source Maps 与 CLI 迁移](https://yindongliang.com/posts/sentry-frontend-backend-configuration/)
-- [TanStack Start Static Prerendering、经典 SSR 与 Cloudflare Workers Cache](https://yindongliang.com/posts/tanstack-start-prerender-cloudflare-workers-caching/)
-- [技术方案研究 Skill：从问题建模到路线比较与决策](https://yindongliang.com/posts/%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88%E7%A0%94%E7%A9%B6-Skill%E4%BB%8E%E9%97%AE%E9%A2%98%E5%BB%BA%E6%A8%A1%E5%88%B0%E8%B7%AF%E7%BA%BF%E6%AF%94%E8%BE%83%E4%B8%8E%E5%86%B3%E7%AD%96/)
-- [Expo 技术原理与交付：从 React Native 项目到 EAS 发布](https://yindongliang.com/posts/expo-architecture-cng-eas-release/)
+- [技术方案研究 Skill：从问题建模到路线比较与决策](https://yindongliang.com/posts/technology-research-skill-decision-framework/)
+- [使用 Fontsource 管理 Web 字体：从手工字体文件到 npm 依赖](https://yindongliang.com/posts/fontsource-web-fonts/)
+- [Clash Verge Rev、Clash Party 与 Surge Mac 6：macOS 代理客户端怎么选](https://yindongliang.com/posts/macos-proxy-client-comparison/)
+- [快手 H5 落地页、监测链接、归因与支付的通用实践](https://yindongliang.com/posts/kuaishou-h5-attribution-payment/)
+- [GitHub 组织删除后能恢复吗？](https://yindongliang.com/posts/github-organization-deletion-recovery/)
+- [Railway Docker 服务单实例并发不足时，官方建议如何扩容？](https://yindongliang.com/posts/railway-docker-single-instance-scaling/)
 <!-- BLOG-POST-LIST:END -->
