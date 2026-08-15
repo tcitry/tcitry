@@ -18,7 +18,6 @@
 15. ⭐ Starred [Augani/openreel-video](https://github.com/Augani/openreel-video)<br>
 16. ⭐ Starred [earendil-works/pi](https://github.com/earendil-works/pi)<br>
 17. ⭐ Starred [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)<br>
-18. ⭐ Starred [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
