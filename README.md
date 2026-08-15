@@ -24,6 +24,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [OpenPencil 源码分析：AI 原生设计编辑器的分层、渲染与协作](https://yindongliang.com/posts/open-pencil-source-code-analysis/)
+- [理解债：AI 辅助个人知识库的收益、代价与边界](https://yindongliang.com/posts/understanding-debt-ai-knowledge-base/)
 - [M2M 认证机制：通用原理与 Clerk M2M Tokens 实践](https://yindongliang.com/posts/m2m-authentication-clerk-tokens/)
 - [中文汉字笔画查询：当前字形与传统姓名学备注的工程实现](https://yindongliang.com/posts/chinese-character-stroke-count-engineering/)
 - [Android Emulator 能调用系统摄像头吗？](https://yindongliang.com/posts/android-emulator-host-webcam/)
@@ -32,5 +33,4 @@
 - [Clash Verge Rev、Clash Party 与 Surge Mac 6：macOS 代理客户端怎么选](https://yindongliang.com/posts/macos-proxy-client-comparison/)
 - [快手 H5 落地页、监测链接、归因与支付的通用实践](https://yindongliang.com/posts/kuaishou-h5-attribution-payment/)
 - [GitHub 组织删除后能恢复吗？](https://yindongliang.com/posts/github-organization-deletion-recovery/)
-- [Railway Docker 服务单实例并发不足时，官方建议如何扩容？](https://yindongliang.com/posts/railway-docker-single-instance-scaling/)
 <!-- BLOG-POST-LIST:END -->
