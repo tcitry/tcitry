@@ -15,9 +15,6 @@
 12. ⭐ Starred [meepo-it/letsfinddomain-skill](https://github.com/meepo-it/letsfinddomain-skill)<br>
 13. ⭐ Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)<br>
 14. ⭐ Starred [oso95/scroll-world](https://github.com/oso95/scroll-world)<br>
-15. ⭐ Starred [Augani/openreel-video](https://github.com/Augani/openreel-video)<br>
-16. ⭐ Starred [earendil-works/pi](https://github.com/earendil-works/pi)<br>
-17. ⭐ Starred [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
