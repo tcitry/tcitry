@@ -14,7 +14,6 @@
 11. ⭐ Starred [stello-agent/stello](https://github.com/stello-agent/stello)<br>
 12. ⭐ Starred [meepo-it/letsfinddomain-skill](https://github.com/meepo-it/letsfinddomain-skill)<br>
 13. ⭐ Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)<br>
-14. ⭐ Starred [oso95/scroll-world](https://github.com/oso95/scroll-world)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
