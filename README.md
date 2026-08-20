@@ -20,6 +20,7 @@
 ### ✈️ Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent 记忆系统技术调研：Mem0 与主流方案对比](https://yindongliang.com/posts/ai-agent-memory-systems-mem0-survey/)
 - [OpenPencil 源码分析：AI 原生设计编辑器的分层、渲染与协作](https://yindongliang.com/posts/open-pencil-source-code-analysis/)
 - [理解债：AI 辅助个人知识库的收益、代价与边界](https://yindongliang.com/posts/understanding-debt-ai-knowledge-base/)
 - [M2M 认证机制：通用原理与 Clerk M2M Tokens 实践](https://yindongliang.com/posts/m2m-authentication-clerk-tokens/)
@@ -29,5 +30,4 @@
 - [使用 Fontsource 管理 Web 字体：从手工字体文件到 npm 依赖](https://yindongliang.com/posts/fontsource-web-fonts/)
 - [Clash Verge Rev、Clash Party 与 Surge Mac 6：macOS 代理客户端怎么选](https://yindongliang.com/posts/macos-proxy-client-comparison/)
 - [快手 H5 落地页、监测链接、归因与支付的通用实践](https://yindongliang.com/posts/kuaishou-h5-attribution-payment/)
-- [GitHub 组织删除后能恢复吗？](https://yindongliang.com/posts/github-organization-deletion-recovery/)
 <!-- BLOG-POST-LIST:END -->
