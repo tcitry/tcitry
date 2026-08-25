@@ -1,21 +1,23 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)<br>
-2. ⭐ Starred [crynta/terax-ai](https://github.com/crynta/terax-ai)<br>
-3. ⭐ Starred [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)<br>
-4. ⭐ Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)<br>
-5. ⭐ Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)<br>
-6. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
-7. ⭐ Starred [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer)<br>
-8. ⭐ Starred [cloudflare/kumo](https://github.com/cloudflare/kumo)<br>
-9. ⭐ Starred [cloudflare/computer](https://github.com/cloudflare/computer)<br>
-10. ⭐ Starred [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)<br>
-11. ⭐ Starred [microsoft/flint-chart](https://github.com/microsoft/flint-chart)<br>
-12. ⭐ Starred [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas)<br>
-13. ⭐ Starred [stello-agent/stello](https://github.com/stello-agent/stello)<br>
-14. ⭐ Starred [meepo-it/letsfinddomain-skill](https://github.com/meepo-it/letsfinddomain-skill)<br>
-15. ⭐ Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)<br>
+1. ⭐ Starred [ibelick/ui-skills](https://github.com/ibelick/ui-skills)<br>
+2. ⭐ Starred [huggingface/chat-ui](https://github.com/huggingface/chat-ui)<br>
+3. ⭐ Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)<br>
+4. ⭐ Starred [crynta/terax-ai](https://github.com/crynta/terax-ai)<br>
+5. ⭐ Starred [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)<br>
+6. ⭐ Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)<br>
+7. ⭐ Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)<br>
+8. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
+9. ⭐ Starred [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer)<br>
+10. ⭐ Starred [cloudflare/kumo](https://github.com/cloudflare/kumo)<br>
+11. ⭐ Starred [cloudflare/computer](https://github.com/cloudflare/computer)<br>
+12. ⭐ Starred [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)<br>
+13. ⭐ Starred [microsoft/flint-chart](https://github.com/microsoft/flint-chart)<br>
+14. ⭐ Starred [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas)<br>
+15. ⭐ Starred [stello-agent/stello](https://github.com/stello-agent/stello)<br>
+16. ⭐ Starred [meepo-it/letsfinddomain-skill](https://github.com/meepo-it/letsfinddomain-skill)<br>
+17. ⭐ Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
