@@ -16,9 +16,6 @@
 13. ⭐ Starred [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)<br>
 14. ⭐ Starred [microsoft/flint-chart](https://github.com/microsoft/flint-chart)<br>
 15. ⭐ Starred [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas)<br>
-16. ⭐ Starred [stello-agent/stello](https://github.com/stello-agent/stello)<br>
-17. ⭐ Starred [meepo-it/letsfinddomain-skill](https://github.com/meepo-it/letsfinddomain-skill)<br>
-18. ⭐ Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
