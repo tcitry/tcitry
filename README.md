@@ -14,8 +14,6 @@
 11. ⭐ Starred [cloudflare/kumo](https://github.com/cloudflare/kumo)<br>
 12. ⭐ Starred [cloudflare/computer](https://github.com/cloudflare/computer)<br>
 13. ⭐ Starred [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)<br>
-14. ⭐ Starred [microsoft/flint-chart](https://github.com/microsoft/flint-chart)<br>
-15. ⭐ Starred [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
