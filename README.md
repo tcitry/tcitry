@@ -13,7 +13,6 @@
 10. ⭐ Starred [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer)<br>
 11. ⭐ Starred [cloudflare/kumo](https://github.com/cloudflare/kumo)<br>
 12. ⭐ Starred [cloudflare/computer](https://github.com/cloudflare/computer)<br>
-13. ⭐ Starred [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
