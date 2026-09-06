@@ -11,8 +11,6 @@
 8. ⭐ Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)<br>
 9. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
 10. ⭐ Starred [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer)<br>
-11. ⭐ Starred [cloudflare/kumo](https://github.com/cloudflare/kumo)<br>
-12. ⭐ Starred [cloudflare/computer](https://github.com/cloudflare/computer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
