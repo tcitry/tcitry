@@ -20,6 +20,8 @@
 ### ✈️ Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenCode v2 与 Cloudflare：workerd SDK 如何成为在线 Agent 的控制平面](https://yindongliang.com/posts/opencode-v2-cloudflare-workerd-online-agent/)
+- [Android 超广角与深度录制：各厂商向第三方开放了什么](https://yindongliang.com/posts/android-ultrawide-depth-vendor-support/)
 - [从 Hugo 到 Astro：用 Codex 与 GPT-6 Astra 完成博客迁移和主题拆分](https://yindongliang.com/posts/hugo-to-astro-book-codex-gpt-6-astra/)
 - [AI Agent 记忆系统技术调研：Mem0 与主流方案对比](https://yindongliang.com/posts/ai-agent-memory-systems-mem0-survey/)
 - [OpenPencil 源码分析：AI 原生设计编辑器的分层、渲染与协作](https://yindongliang.com/posts/open-pencil-source-code-analysis/)
@@ -28,6 +30,4 @@
 - [M2M 认证机制：通用原理与 Clerk M2M Tokens 实践](https://yindongliang.com/posts/m2m-authentication-clerk-tokens/)
 - [Android Emulator 能调用系统摄像头吗？](https://yindongliang.com/posts/android-emulator-host-webcam/)
 - [技术方案研究 Skill：从问题建模到路线比较与决策](https://yindongliang.com/posts/technology-research-skill-decision-framework/)
-- [使用 Fontsource 管理 Web 字体：从手工字体文件到 npm 依赖](https://yindongliang.com/posts/fontsource-web-fonts/)
-- [快手 H5 落地页、监测链接、归因与支付的通用实践](https://yindongliang.com/posts/kuaishou-h5-attribution-payment/)
 <!-- BLOG-POST-LIST:END -->
