@@ -1,20 +1,21 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#161](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-2. 💬 Commented on [#161](https://github.com/tcitry/tcitry.github.io/pull/161#issuecomment-5595961743) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-3. 💪 Opened PR [#161](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-4. ⭐ Starred [ThunderVVV/HaWoR](https://github.com/ThunderVVV/HaWoR)<br>
-5. ⭐ Starred [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)<br>
-6. ⭐ Starred [ibelick/ui-skills](https://github.com/ibelick/ui-skills)<br>
-7. ⭐ Starred [huggingface/chat-ui](https://github.com/huggingface/chat-ui)<br>
-8. ⭐ Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)<br>
-9. ⭐ Starred [crynta/terax-ai](https://github.com/crynta/terax-ai)<br>
-10. ⭐ Starred [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)<br>
-11. ⭐ Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)<br>
-12. ⭐ Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)<br>
-13. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
-14. ⭐ Starred [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer)<br>
+1. ⭐ Starred [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts)<br>
+2. ❌ Closed PR [#161](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+3. 💬 Commented on [#161](https://github.com/tcitry/tcitry.github.io/pull/161#issuecomment-5595961743) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+4. 💪 Opened PR [#161](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+5. ⭐ Starred [ThunderVVV/HaWoR](https://github.com/ThunderVVV/HaWoR)<br>
+6. ⭐ Starred [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)<br>
+7. ⭐ Starred [ibelick/ui-skills](https://github.com/ibelick/ui-skills)<br>
+8. ⭐ Starred [huggingface/chat-ui](https://github.com/huggingface/chat-ui)<br>
+9. ⭐ Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)<br>
+10. ⭐ Starred [crynta/terax-ai](https://github.com/crynta/terax-ai)<br>
+11. ⭐ Starred [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)<br>
+12. ⭐ Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)<br>
+13. ⭐ Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)<br>
+14. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
+15. ⭐ Starred [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
