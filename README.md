@@ -21,7 +21,8 @@
 ### ✈️ Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenCode v2 与 Cloudflare：workerd SDK 如何成为在线 Agent 的控制平面](https://yindongliang.com/posts/opencode-v2-cloudflare-workerd-online-agent/)
+- [DNSSEC 介绍：DNS 签名、信任链与验证实践](https://yindongliang.com/posts/dnssec-introduction/)
+- [OpenCode v2 在 Cloudflare 上怎么用：使用场景与 SDK 入门](https://yindongliang.com/posts/opencode-v2-cloudflare-workerd-online-agent/)
 - [Android 超广角与深度录制：各厂商向第三方开放了什么](https://yindongliang.com/posts/android-ultrawide-depth-vendor-support/)
 - [从 Hugo 到 Astro：用 Codex 与 GPT-6 Astra 完成博客迁移和主题拆分](https://yindongliang.com/posts/hugo-to-astro-book-codex-gpt-6-astra/)
 - [AI Agent 记忆系统技术调研：Mem0 与主流方案对比](https://yindongliang.com/posts/ai-agent-memory-systems-mem0-survey/)
@@ -30,5 +31,4 @@
 - [中文汉字笔画查询：当前字形与传统姓名学备注的工程实现](https://yindongliang.com/posts/chinese-character-stroke-count-engineering/)
 - [M2M 认证机制：通用原理与 Clerk M2M Tokens 实践](https://yindongliang.com/posts/m2m-authentication-clerk-tokens/)
 - [Android Emulator 能调用系统摄像头吗？](https://yindongliang.com/posts/android-emulator-host-webcam/)
-- [技术方案研究 Skill：从问题建模到路线比较与决策](https://yindongliang.com/posts/technology-research-skill-decision-framework/)
 <!-- BLOG-POST-LIST:END -->
