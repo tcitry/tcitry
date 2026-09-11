@@ -21,6 +21,7 @@
 ### ✈️ Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cursor Origin 与 Cloudflare Artifacts：代码协作平台与 Agent 可编程 Git 存储选型](https://yindongliang.com/posts/cursor-origin-vs-cloudflare-artifacts-agent-git-storage/)
 - [DNSSEC 介绍：DNS 签名、信任链与验证实践](https://yindongliang.com/posts/dnssec-introduction/)
 - [OpenCode v2 在 Cloudflare 上怎么用：使用场景与 SDK 入门](https://yindongliang.com/posts/opencode-v2-cloudflare-workerd-online-agent/)
 - [Android 超广角与深度录制：各厂商向第三方开放了什么](https://yindongliang.com/posts/android-ultrawide-depth-vendor-support/)
@@ -30,5 +31,4 @@
 - [理解债：AI 辅助个人知识库的收益、代价与边界](https://yindongliang.com/posts/understanding-debt-ai-knowledge-base/)
 - [中文汉字笔画查询：当前字形与传统姓名学备注的工程实现](https://yindongliang.com/posts/chinese-character-stroke-count-engineering/)
 - [M2M 认证机制：通用原理与 Clerk M2M Tokens 实践](https://yindongliang.com/posts/m2m-authentication-clerk-tokens/)
-- [Android Emulator 能调用系统摄像头吗？](https://yindongliang.com/posts/android-emulator-host-webcam/)
 <!-- BLOG-POST-LIST:END -->
