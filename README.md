@@ -1,32 +1,34 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#189](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-2. 💪 Opened PR [#188](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-3. 💪 Opened PR [#187](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-4. 💪 Opened PR [#186](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-5. 💪 Opened PR [#185](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-6. 💪 Opened PR [#184](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-7. 💪 Opened PR [#183](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-8. 💪 Opened PR [#182](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-9. 💪 Opened PR [#181](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-10. 💪 Opened PR [#180](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-11. 💪 Opened PR [#179](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-12. 💪 Opened PR [#178](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-13. 💪 Opened PR [#177](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-14. 💪 Opened PR [#176](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-15. 💪 Opened PR [#175](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-16. 💪 Opened PR [#174](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-17. 💪 Opened PR [#173](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-18. 💪 Opened PR [#172](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-19. 💪 Opened PR [#171](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-20. 💪 Opened PR [#170](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-21. 💪 Opened PR [#169](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-22. 💬 Commented on [#168](https://github.com/tcitry/tcitry.github.io/pull/168#issuecomment-5634604018) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-23. 💪 Opened PR [#168](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-24. 💪 Opened PR [#167](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-25. 💪 Opened PR [#166](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-26. 💪 Opened PR [#165](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+1. 💪 Opened PR [#197](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+2. ❌ Closed PR [#195](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+3. 💬 Commented on [#195](https://github.com/tcitry/tcitry.github.io/pull/195#issuecomment-5659674087) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+4. 💪 Opened PR [#196](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+5. 💬 Commented on [#195](https://github.com/tcitry/tcitry.github.io/pull/195#issuecomment-5659328094) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+6. ⭐ Starred [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs)<br>
+7. 💪 Opened PR [#195](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+8. 💪 Opened PR [#194](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+9. 💪 Opened PR [#193](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+10. 💪 Opened PR [#192](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+11. 💪 Opened PR [#191](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+12. 💪 Opened PR [#190](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+13. 💪 Opened PR [#189](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+14. 💪 Opened PR [#188](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+15. 💪 Opened PR [#187](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+16. 💪 Opened PR [#186](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+17. 💪 Opened PR [#185](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+18. 💪 Opened PR [#184](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+19. 💪 Opened PR [#183](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+20. 💪 Opened PR [#182](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+21. 💪 Opened PR [#181](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+22. 💪 Opened PR [#180](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+23. 💪 Opened PR [#179](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+24. 💪 Opened PR [#178](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+25. 💪 Opened PR [#177](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+26. 💪 Opened PR [#176](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+27. 💪 Opened PR [#175](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+28. 💪 Opened PR [#174](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
