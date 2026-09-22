@@ -56,6 +56,7 @@
 ### ✈️ Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [主干静默与 SHA 晋升：快速迭代下的预发与生产部署](https://yindongliang.com/posts/trunk-silent-sha-promotion-staging-production/)
 - [在 Clerk 之上做自定义 OAuth 同意页：身份宿主、Consent URL 与 headless API](https://yindongliang.com/posts/clerk-custom-oauth-consent-ui/)
 - [Clerk 登录复盘：Account Portal、Google One Tap 与 OAuth 客户端配置](https://yindongliang.com/posts/clerk-oauth-account-portal-one-tap/)
 - [Cursor Origin 与 Cloudflare Artifacts：代码协作平台与 Agent 可编程 Git 存储选型](https://yindongliang.com/posts/cursor-origin-vs-cloudflare-artifacts-agent-git-storage/)
@@ -65,5 +66,4 @@
 - [从 Hugo 到 Astro：用 Codex 与 GPT-6 Astra 完成博客迁移和主题拆分](https://yindongliang.com/posts/hugo-to-astro-book-codex-gpt-6-astra/)
 - [AI Agent 记忆系统技术调研：Mem0 与主流方案对比](https://yindongliang.com/posts/ai-agent-memory-systems-mem0-survey/)
 - [OpenPencil 源码分析：AI 原生设计编辑器的分层、渲染与协作](https://yindongliang.com/posts/open-pencil-source-code-analysis/)
-- [理解债：AI 辅助个人知识库的收益、代价与边界](https://yindongliang.com/posts/understanding-debt-ai-knowledge-base/)
 <!-- BLOG-POST-LIST:END -->
