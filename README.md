@@ -50,7 +50,6 @@
 47. 💪 Opened PR [#209](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
 48. 💪 Opened PR [#208](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
 49. 💪 Opened PR [#207](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-50. 💪 Opened PR [#206](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
