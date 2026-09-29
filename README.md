@@ -55,6 +55,7 @@
 ### ✈️ Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Loops 产品调研：SaaS 团队如何使用 Dashboard 与 API](https://yindongliang.com/posts/loops-so-product-research/)
 - [Clerk CIMD：Client ID Metadata Document 原理、场景与 MCP](https://yindongliang.com/posts/clerk-cimd-client-id-metadata-documents/)
 - [主干静默与 SHA 晋升：快速迭代下的预发与生产部署](https://yindongliang.com/posts/trunk-silent-sha-promotion-staging-production/)
 - [在 Clerk 之上做自定义 OAuth 同意页：身份宿主、Consent URL 与 headless API](https://yindongliang.com/posts/clerk-custom-oauth-consent-ui/)
@@ -64,5 +65,4 @@
 - [OpenCode v2 在 Cloudflare 上怎么用：使用场景与 SDK 入门](https://yindongliang.com/posts/opencode-v2-cloudflare-workerd-online-agent/)
 - [Android 超广角与深度录制：各厂商向第三方开放了什么](https://yindongliang.com/posts/android-ultrawide-depth-vendor-support/)
 - [从 Hugo 到 Astro：用 Codex 与 GPT-6 Astra 完成博客迁移和主题拆分](https://yindongliang.com/posts/hugo-to-astro-book-codex-gpt-6-astra/)
-- [AI Agent 记忆系统技术调研：Mem0 与主流方案对比](https://yindongliang.com/posts/ai-agent-memory-systems-mem0-survey/)
 <!-- BLOG-POST-LIST:END -->
