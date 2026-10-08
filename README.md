@@ -51,14 +51,14 @@
 ### ✈️ Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [my_ai_town 项目分析：Godot 与 AI 社会模拟是否匹配](https://yindongliang.com/posts/my-ai-town-godot-gameplay-architecture-fit/)
+- [用 Agent 与 AI 开发 Steam 独立游戏：技术选型、素材流程与开发者申请](https://yindongliang.com/posts/steam-indie-game-development-options/)
+- [ZIP 流式压缩：为什么可以边生成边写入](https://yindongliang.com/posts/zip-streaming-deflate-data-descriptor-central-directory/)
 - [Loops 产品调研：SaaS 团队如何使用 Dashboard 与 API](https://yindongliang.com/posts/loops-so-product-research/)
 - [Clerk CIMD：Client ID Metadata Document 原理、场景与 MCP](https://yindongliang.com/posts/clerk-cimd-client-id-metadata-documents/)
 - [主干静默与 SHA 晋升：快速迭代下的预发与生产部署](https://yindongliang.com/posts/trunk-silent-sha-promotion-staging-production/)
+- [Pascal Editor 源码分析：建筑 Scene Graph、几何系统与 MCP 业务流程](https://yindongliang.com/posts/pascal-editor-source-analysis/)
+- [OpenGemCutting 架构调研：技术栈、几何内核与业务流程](https://yindongliang.com/posts/opengemcutting-architecture/)
+- [Puck 与 GrapesJS：建站 SDK 的编辑模型、扩展能力与选型](https://yindongliang.com/posts/puck-grapesjs-comparison/)
 - [在 Clerk 之上做自定义 OAuth 同意页：身份宿主、Consent URL 与 headless API](https://yindongliang.com/posts/clerk-custom-oauth-consent-ui/)
-- [Clerk 登录复盘：Account Portal、Google One Tap 与 OAuth 客户端配置](https://yindongliang.com/posts/clerk-oauth-account-portal-one-tap/)
-- [Cursor Origin 与 Cloudflare Artifacts：代码协作平台与 Agent 可编程 Git 存储选型](https://yindongliang.com/posts/cursor-origin-vs-cloudflare-artifacts-agent-git-storage/)
-- [DNSSEC 介绍：DNS 签名、信任链与验证实践](https://yindongliang.com/posts/dnssec-introduction/)
-- [OpenCode v2 在 Cloudflare 上怎么用：使用场景与 SDK 入门](https://yindongliang.com/posts/opencode-v2-cloudflare-workerd-online-agent/)
-- [Android 超广角与深度录制：各厂商向第三方开放了什么](https://yindongliang.com/posts/android-ultrawide-depth-vendor-support/)
-- [从 Hugo 到 Astro：用 Codex 与 GPT-6 Astra 完成博客迁移和主题拆分](https://yindongliang.com/posts/hugo-to-astro-book-codex-gpt-6-astra/)
 <!-- BLOG-POST-LIST:END -->
