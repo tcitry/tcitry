@@ -1,46 +1,56 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#269](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-2. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
-3. ⭐ Starred [tumio-ltd/focusflow](https://github.com/tumio-ltd/focusflow)<br>
-4. 💪 Opened PR [#266](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-5. 💬 Commented on [#264](https://github.com/tcitry/tcitry.github.io/pull/264#issuecomment-6051812912) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-6. 💬 Commented on [#3](https://github.com/tcitry/astro-book/pull/3#issuecomment-6051781374) in [tcitry/astro-book](https://github.com/tcitry/astro-book)<br>
-7. ❌ Closed PR [#3](undefined) in [tcitry/astro-book](https://github.com/tcitry/astro-book)<br>
-8. ⭐ Starred [vercel/eve](https://github.com/vercel/eve)<br>
-9. 💪 Opened PR [#261](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-10. 💪 Opened PR [#260](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-11. 💪 Opened PR [#259](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-12. ⭐ Starred [mewamew/my_ai_town](https://github.com/mewamew/my_ai_town)<br>
-13. 💪 Opened PR [#254](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-14. 💪 Opened PR [#253](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-15. 💪 Opened PR [#252](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-16. ⭐ Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)<br>
-17. 💪 Opened PR [#251](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-18. 💪 Opened PR [#250](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-19. ❌ Closed PR [#6](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
-20. 💬 Commented on [#6](https://github.com/iuvapp/iuvui/pull/6#issuecomment-5868015843) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
-21. 💪 Opened PR [#6](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
-22. 💪 Opened PR [#5](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
-23. 💪 Opened PR [#4](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
-24. 💪 Opened PR [#249](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-25. 💪 Opened PR [#248](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-26. 💪 Opened PR [#247](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-27. 💪 Opened PR [#246](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-28. 💪 Opened PR [#3](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
-29. 💪 Opened PR [#245](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-30. 💪 Opened PR [#2](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
-31. 💪 Opened PR [#244](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-32. ⭐ Starred [vinzdg/codenotch](https://github.com/vinzdg/codenotch)<br>
-33. 💪 Opened PR [#243](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-34. 💪 Opened PR [#242](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-35. 💪 Opened PR [#241](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-36. 💪 Opened PR [#240](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-37. 💪 Opened PR [#239](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-38. 💪 Opened PR [#238](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-39. 💬 Commented on [#237](https://github.com/tcitry/tcitry.github.io/pull/237#issuecomment-5758531425) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-40. 💬 Commented on [#237](https://github.com/tcitry/tcitry.github.io/pull/237#issuecomment-5757910011) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+1. ⭐ Starred [e2b-dev/desktop](https://github.com/e2b-dev/desktop)<br>
+2. ⭐ Starred [elliothux/open-compute](https://github.com/elliothux/open-compute)<br>
+3. ⭐ Starred [makecindy/cindy](https://github.com/makecindy/cindy)<br>
+4. ⭐ Starred [cartesiancs/map3d](https://github.com/cartesiancs/map3d)<br>
+5. ⭐ Starred [apify/crawlee](https://github.com/apify/crawlee)<br>
+6. ⭐ Starred [zai-org/ZCode](https://github.com/zai-org/ZCode)<br>
+7. 💪 Opened PR [#269](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+8. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
+9. ⭐ Starred [tumio-ltd/focusflow](https://github.com/tumio-ltd/focusflow)<br>
+10. 💪 Opened PR [#266](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+11. 💬 Commented on [#264](https://github.com/tcitry/tcitry.github.io/pull/264#issuecomment-6051812912) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+12. 💬 Commented on [#3](https://github.com/tcitry/astro-book/pull/3#issuecomment-6051781374) in [tcitry/astro-book](https://github.com/tcitry/astro-book)<br>
+13. ❌ Closed PR [#3](undefined) in [tcitry/astro-book](https://github.com/tcitry/astro-book)<br>
+14. ⭐ Starred [vercel/eve](https://github.com/vercel/eve)<br>
+15. 💪 Opened PR [#261](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+16. 💪 Opened PR [#260](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+17. 💪 Opened PR [#259](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+18. ⭐ Starred [mewamew/my_ai_town](https://github.com/mewamew/my_ai_town)<br>
+19. 💪 Opened PR [#254](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+20. 💪 Opened PR [#253](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+21. 💪 Opened PR [#252](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+22. ⭐ Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)<br>
+23. 💪 Opened PR [#251](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+24. 💪 Opened PR [#250](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+25. ❌ Closed PR [#6](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
+26. 💬 Commented on [#6](https://github.com/iuvapp/iuvui/pull/6#issuecomment-5868015843) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
+27. 💪 Opened PR [#6](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
+28. 💪 Opened PR [#5](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
+29. 💪 Opened PR [#4](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
+30. 💪 Opened PR [#249](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+31. 💪 Opened PR [#248](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+32. 💪 Opened PR [#247](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+33. 💪 Opened PR [#246](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+34. 💪 Opened PR [#3](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
+35. 💪 Opened PR [#245](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+36. 💪 Opened PR [#2](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
+37. 💪 Opened PR [#244](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+38. ⭐ Starred [vinzdg/codenotch](https://github.com/vinzdg/codenotch)<br>
+39. 💪 Opened PR [#243](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+40. 💪 Opened PR [#242](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+41. 💪 Opened PR [#241](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+42. 💪 Opened PR [#240](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+43. 💪 Opened PR [#239](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+44. 💬 Commented on [#237](https://github.com/tcitry/tcitry.github.io/pull/237#issuecomment-5758531425) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+45. 💬 Commented on [#237](https://github.com/tcitry/tcitry.github.io/pull/237#issuecomment-5757910011) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+46. 💬 Commented on [#237](https://github.com/tcitry/tcitry.github.io/pull/237#issuecomment-5757895817) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+47. ⭐ Starred [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)<br>
+48. ❌ Closed PR [#232](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+49. ⭐ Starred [shadcn-ui/cn](https://github.com/shadcn-ui/cn)<br>
+50. ⭐ Starred [komi-store/komi-store](https://github.com/komi-store/komi-store)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
