@@ -56,6 +56,7 @@
 ### ✈️ Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [自托管「类 Cloudflare Workers」：开源项目 open-compute 的原理、架构与适用场景](https://yindongliang.com/posts/open-compute-self-hosted-workers/)
 - [my_ai_town 项目分析：Godot 与 AI 社会模拟是否匹配](https://yindongliang.com/posts/my-ai-town-godot-gameplay-architecture-fit/)
 - [用 Agent 与 AI 开发 Steam 独立游戏：技术选型、素材流程与开发者申请](https://yindongliang.com/posts/steam-indie-game-development-options/)
 - [ZIP 流式压缩：为什么可以边生成边写入](https://yindongliang.com/posts/zip-streaming-deflate-data-descriptor-central-directory/)
@@ -65,5 +66,4 @@
 - [Pascal Editor 源码分析：建筑 Scene Graph、几何系统与 MCP 业务流程](https://yindongliang.com/posts/pascal-editor-source-analysis/)
 - [OpenGemCutting 架构调研：技术栈、几何内核与业务流程](https://yindongliang.com/posts/opengemcutting-architecture/)
 - [Puck 与 GrapesJS：建站 SDK 的编辑模型、扩展能力与选型](https://yindongliang.com/posts/puck-grapesjs-comparison/)
-- [在 Clerk 之上做自定义 OAuth 同意页：身份宿主、Consent URL 与 headless API](https://yindongliang.com/posts/clerk-custom-oauth-consent-ui/)
 <!-- BLOG-POST-LIST:END -->
