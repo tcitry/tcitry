@@ -40,17 +40,12 @@
 37. 💪 Opened PR [#260](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
 38. 💪 Opened PR [#259](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
 39. ⭐ Starred [mewamew/my_ai_town](https://github.com/mewamew/my_ai_town)<br>
-40. 💪 Opened PR [#254](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-41. 💪 Opened PR [#253](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-42. 💪 Opened PR [#252](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-43. ⭐ Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)<br>
-44. ❌ Closed PR [#6](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
-45. 💬 Commented on [#6](https://github.com/iuvapp/iuvui/pull/6#issuecomment-5868015843) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
-46. ⭐ Starred [vinzdg/codenotch](https://github.com/vinzdg/codenotch)<br>
-47. 💬 Commented on [#237](https://github.com/tcitry/tcitry.github.io/pull/237#issuecomment-5758531425) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-48. 💬 Commented on [#237](https://github.com/tcitry/tcitry.github.io/pull/237#issuecomment-5757910011) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-49. 💬 Commented on [#237](https://github.com/tcitry/tcitry.github.io/pull/237#issuecomment-5757895817) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-50. ⭐ Starred [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)<br>
+40. ⭐ Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)<br>
+41. ❌ Closed PR [#6](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
+42. 💬 Commented on [#6](https://github.com/iuvapp/iuvui/pull/6#issuecomment-5868015843) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
+43. ⭐ Starred [vinzdg/codenotch](https://github.com/vinzdg/codenotch)<br>
+44. ⭐ Starred [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)<br>
+45. ❌ Closed PR [#232](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
