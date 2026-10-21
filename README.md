@@ -1,34 +1,34 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#12](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
-2. 💪 Opened PR [#11](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
-3. 💪 Opened PR [#285](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-4. 💪 Opened PR [#284](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-5. 💪 Opened PR [#283](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-6. ⭐ Starred [elie222/rakazo](https://github.com/elie222/rakazo)<br>
-7. ⭐ Starred [cursor/plugins](https://github.com/cursor/plugins)<br>
-8. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)<br>
-9. ⭐ Starred [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots)<br>
-10. ⭐ Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)<br>
-11. ⭐ Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)<br>
-12. ⭐ Starred [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>
-13. ⭐ Starred [BoardUI/boardui](https://github.com/BoardUI/boardui)<br>
-14. 💪 Opened PR [#282](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-15. ⭐ Starred [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)<br>
-16. 💪 Opened PR [#281](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-17. 💬 Commented on [#280](https://github.com/tcitry/tcitry.github.io/pull/280#issuecomment-6161201431) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-18. 💪 Opened PR [#280](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-19. 💪 Opened PR [#279](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-20. 💬 Commented on [#278](https://github.com/tcitry/tcitry.github.io/pull/278#issuecomment-6159038127) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-21. 💪 Opened PR [#278](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-22. ⭐ Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)<br>
-23. 💪 Opened PR [#277](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-24. 💪 Opened PR [#276](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-25. 💪 Opened PR [#275](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-26. 💪 Opened PR [#274](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-27. ⭐ Starred [threerocks/hand-drawn-styles](https://github.com/threerocks/hand-drawn-styles)<br>
-28. 💪 Opened PR [#273](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+1. 💪 Opened PR [#293](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+2. 💪 Opened PR [#292](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+3. 💪 Opened PR [#290](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+4. ⭐ Starred [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)<br>
+5. 💪 Opened PR [#289](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+6. 💪 Opened PR [#288](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+7. 💪 Opened PR [#287](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+8. 💪 Opened PR [#286](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+9. ⭐ Starred [gridaco/grida](https://github.com/gridaco/grida)<br>
+10. 💪 Opened PR [#13](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
+11. 💪 Opened PR [#12](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
+12. 💪 Opened PR [#11](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
+13. 💪 Opened PR [#285](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+14. 💪 Opened PR [#284](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+15. 💪 Opened PR [#283](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+16. ⭐ Starred [elie222/rakazo](https://github.com/elie222/rakazo)<br>
+17. ⭐ Starred [cursor/plugins](https://github.com/cursor/plugins)<br>
+18. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)<br>
+19. ⭐ Starred [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots)<br>
+20. ⭐ Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)<br>
+21. ⭐ Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)<br>
+22. ⭐ Starred [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>
+23. ⭐ Starred [BoardUI/boardui](https://github.com/BoardUI/boardui)<br>
+24. ⭐ Starred [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)<br>
+25. 💬 Commented on [#280](https://github.com/tcitry/tcitry.github.io/pull/280#issuecomment-6161201431) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+26. 💬 Commented on [#278](https://github.com/tcitry/tcitry.github.io/pull/278#issuecomment-6159038127) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+27. ⭐ Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)<br>
+28. ⭐ Starred [threerocks/hand-drawn-styles](https://github.com/threerocks/hand-drawn-styles)<br>
 29. ⭐ Starred [e2b-dev/desktop](https://github.com/e2b-dev/desktop)<br>
 30. ⭐ Starred [elliothux/open-compute](https://github.com/elliothux/open-compute)<br>
 31. ⭐ Starred [makecindy/cindy](https://github.com/makecindy/cindy)<br>
@@ -46,8 +46,6 @@
 43. ❌ Closed PR [#6](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
 44. 💬 Commented on [#6](https://github.com/iuvapp/iuvui/pull/6#issuecomment-5868015843) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
 45. ⭐ Starred [vinzdg/codenotch](https://github.com/vinzdg/codenotch)<br>
-46. ⭐ Starred [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)<br>
-47. ❌ Closed PR [#232](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
