@@ -25,32 +25,32 @@
 22. 💪 Opened PR [#287](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
 23. 💪 Opened PR [#286](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
 24. ⭐ Starred [gridaco/grida](https://github.com/gridaco/grida)<br>
-25. 💪 Opened PR [#13](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
-26. 💪 Opened PR [#12](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
-27. 💪 Opened PR [#11](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
-28. ⭐ Starred [elie222/rakazo](https://github.com/elie222/rakazo)<br>
-29. ⭐ Starred [cursor/plugins](https://github.com/cursor/plugins)<br>
-30. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)<br>
-31. ⭐ Starred [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots)<br>
-32. ⭐ Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)<br>
-33. ⭐ Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)<br>
-34. ⭐ Starred [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>
-35. ⭐ Starred [BoardUI/boardui](https://github.com/BoardUI/boardui)<br>
-36. ⭐ Starred [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)<br>
-37. 💬 Commented on [#280](https://github.com/tcitry/tcitry.github.io/pull/280#issuecomment-6161201431) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-38. 💬 Commented on [#278](https://github.com/tcitry/tcitry.github.io/pull/278#issuecomment-6159038127) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-39. ⭐ Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)<br>
-40. ⭐ Starred [threerocks/hand-drawn-styles](https://github.com/threerocks/hand-drawn-styles)<br>
-41. ⭐ Starred [e2b-dev/desktop](https://github.com/e2b-dev/desktop)<br>
-42. ⭐ Starred [elliothux/open-compute](https://github.com/elliothux/open-compute)<br>
-43. ⭐ Starred [makecindy/cindy](https://github.com/makecindy/cindy)<br>
-44. ⭐ Starred [cartesiancs/map3d](https://github.com/cartesiancs/map3d)<br>
-45. ⭐ Starred [apify/crawlee](https://github.com/apify/crawlee)<br>
-46. ⭐ Starred [zai-org/ZCode](https://github.com/zai-org/ZCode)<br>
-47. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
-48. ⭐ Starred [tumio-ltd/focusflow](https://github.com/tumio-ltd/focusflow)<br>
-49. 💬 Commented on [#264](https://github.com/tcitry/tcitry.github.io/pull/264#issuecomment-6051812912) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-50. 💬 Commented on [#3](https://github.com/tcitry/astro-book/pull/3#issuecomment-6051781374) in [tcitry/astro-book](https://github.com/tcitry/astro-book)<br>
+25. ⭐ Starred [elie222/rakazo](https://github.com/elie222/rakazo)<br>
+26. ⭐ Starred [cursor/plugins](https://github.com/cursor/plugins)<br>
+27. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)<br>
+28. ⭐ Starred [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots)<br>
+29. ⭐ Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)<br>
+30. ⭐ Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)<br>
+31. ⭐ Starred [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>
+32. ⭐ Starred [BoardUI/boardui](https://github.com/BoardUI/boardui)<br>
+33. ⭐ Starred [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)<br>
+34. 💬 Commented on [#280](https://github.com/tcitry/tcitry.github.io/pull/280#issuecomment-6161201431) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+35. 💬 Commented on [#278](https://github.com/tcitry/tcitry.github.io/pull/278#issuecomment-6159038127) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+36. ⭐ Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)<br>
+37. ⭐ Starred [threerocks/hand-drawn-styles](https://github.com/threerocks/hand-drawn-styles)<br>
+38. ⭐ Starred [e2b-dev/desktop](https://github.com/e2b-dev/desktop)<br>
+39. ⭐ Starred [elliothux/open-compute](https://github.com/elliothux/open-compute)<br>
+40. ⭐ Starred [makecindy/cindy](https://github.com/makecindy/cindy)<br>
+41. ⭐ Starred [cartesiancs/map3d](https://github.com/cartesiancs/map3d)<br>
+42. ⭐ Starred [apify/crawlee](https://github.com/apify/crawlee)<br>
+43. ⭐ Starred [zai-org/ZCode](https://github.com/zai-org/ZCode)<br>
+44. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
+45. ⭐ Starred [tumio-ltd/focusflow](https://github.com/tumio-ltd/focusflow)<br>
+46. 💬 Commented on [#264](https://github.com/tcitry/tcitry.github.io/pull/264#issuecomment-6051812912) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+47. 💬 Commented on [#3](https://github.com/tcitry/astro-book/pull/3#issuecomment-6051781374) in [tcitry/astro-book](https://github.com/tcitry/astro-book)<br>
+48. ❌ Closed PR [#3](undefined) in [tcitry/astro-book](https://github.com/tcitry/astro-book)<br>
+49. ⭐ Starred [vercel/eve](https://github.com/vercel/eve)<br>
+50. ⭐ Starred [mewamew/my_ai_town](https://github.com/mewamew/my_ai_town)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
