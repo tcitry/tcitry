@@ -1,56 +1,56 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#14](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
-2. ⭐ Starred [garrytan/gstack](https://github.com/garrytan/gstack)<br>
-3. 👍 Approved [#304](https://github.com/tcitry/tcitry.github.io/pull/304#pullrequestreview-5647001325) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-4. ⭐ Starred [garrytan/gbrain](https://github.com/garrytan/gbrain)<br>
-5. ⭐ Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)<br>
-6. ⭐ Starred [aden-hive/hive](https://github.com/aden-hive/hive)<br>
-7. 💪 Opened PR [#307](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-8. ⭐ Starred [starc007/ui-components](https://github.com/starc007/ui-components)<br>
-9. 💪 Opened PR [#306](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-10. 💪 Opened PR [#305](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-11. 💪 Opened PR [#303](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-12. 💪 Opened PR [#302](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-13. ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br>
-14. 💪 Opened PR [#301](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-15. 💪 Opened PR [#300](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-16. 💪 Opened PR [#299](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-17. 💪 Opened PR [#298](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-18. 💪 Opened PR [#297](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-19. 💪 Opened PR [#296](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-20. 💪 Opened PR [#295](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-21. 💪 Opened PR [#293](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-22. 💪 Opened PR [#292](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-23. 💪 Opened PR [#290](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-24. ⭐ Starred [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)<br>
-25. 💪 Opened PR [#289](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-26. 💪 Opened PR [#288](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-27. 💪 Opened PR [#287](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-28. 💪 Opened PR [#286](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-29. ⭐ Starred [gridaco/grida](https://github.com/gridaco/grida)<br>
-30. ⭐ Starred [elie222/rakazo](https://github.com/elie222/rakazo)<br>
-31. ⭐ Starred [cursor/plugins](https://github.com/cursor/plugins)<br>
-32. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)<br>
-33. ⭐ Starred [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots)<br>
-34. ⭐ Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)<br>
-35. ⭐ Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)<br>
-36. ⭐ Starred [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>
-37. ⭐ Starred [BoardUI/boardui](https://github.com/BoardUI/boardui)<br>
-38. ⭐ Starred [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)<br>
-39. 💬 Commented on [#280](https://github.com/tcitry/tcitry.github.io/pull/280#issuecomment-6161201431) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-40. 💬 Commented on [#278](https://github.com/tcitry/tcitry.github.io/pull/278#issuecomment-6159038127) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
-41. ⭐ Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)<br>
-42. ⭐ Starred [threerocks/hand-drawn-styles](https://github.com/threerocks/hand-drawn-styles)<br>
-43. ⭐ Starred [e2b-dev/desktop](https://github.com/e2b-dev/desktop)<br>
-44. ⭐ Starred [elliothux/open-compute](https://github.com/elliothux/open-compute)<br>
-45. ⭐ Starred [makecindy/cindy](https://github.com/makecindy/cindy)<br>
-46. ⭐ Starred [cartesiancs/map3d](https://github.com/cartesiancs/map3d)<br>
-47. ⭐ Starred [apify/crawlee](https://github.com/apify/crawlee)<br>
-48. ⭐ Starred [zai-org/ZCode](https://github.com/zai-org/ZCode)<br>
-49. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
-50. ⭐ Starred [tumio-ltd/focusflow](https://github.com/tumio-ltd/focusflow)<br>
+1. ⭐ Starred [storytold/artcraft](https://github.com/storytold/artcraft)<br>
+2. ⭐ Starred [storytold/vectorcraft](https://github.com/storytold/vectorcraft)<br>
+3. 💪 Opened PR [#313](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+4. 💪 Opened PR [#312](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+5. 💪 Opened PR [#311](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+6. 💪 Opened PR [#310](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+7. 💪 Opened PR [#309](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+8. 💪 Opened PR [#14](undefined) in [iuvapp/iuvui](https://github.com/iuvapp/iuvui)<br>
+9. ⭐ Starred [garrytan/gstack](https://github.com/garrytan/gstack)<br>
+10. 👍 Approved [#304](https://github.com/tcitry/tcitry.github.io/pull/304#pullrequestreview-5647001325) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+11. ⭐ Starred [garrytan/gbrain](https://github.com/garrytan/gbrain)<br>
+12. ⭐ Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)<br>
+13. ⭐ Starred [aden-hive/hive](https://github.com/aden-hive/hive)<br>
+14. 💪 Opened PR [#307](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+15. ⭐ Starred [starc007/ui-components](https://github.com/starc007/ui-components)<br>
+16. 💪 Opened PR [#306](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+17. 💪 Opened PR [#305](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+18. 💪 Opened PR [#303](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+19. 💪 Opened PR [#302](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+20. ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br>
+21. 💪 Opened PR [#301](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+22. 💪 Opened PR [#300](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+23. 💪 Opened PR [#299](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+24. 💪 Opened PR [#298](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+25. 💪 Opened PR [#297](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+26. 💪 Opened PR [#296](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+27. 💪 Opened PR [#295](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+28. 💪 Opened PR [#293](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+29. 💪 Opened PR [#292](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+30. 💪 Opened PR [#290](undefined) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+31. ⭐ Starred [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)<br>
+32. ⭐ Starred [gridaco/grida](https://github.com/gridaco/grida)<br>
+33. ⭐ Starred [elie222/rakazo](https://github.com/elie222/rakazo)<br>
+34. ⭐ Starred [cursor/plugins](https://github.com/cursor/plugins)<br>
+35. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)<br>
+36. ⭐ Starred [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots)<br>
+37. ⭐ Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)<br>
+38. ⭐ Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)<br>
+39. ⭐ Starred [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)<br>
+40. ⭐ Starred [BoardUI/boardui](https://github.com/BoardUI/boardui)<br>
+41. ⭐ Starred [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)<br>
+42. 💬 Commented on [#280](https://github.com/tcitry/tcitry.github.io/pull/280#issuecomment-6161201431) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+43. 💬 Commented on [#278](https://github.com/tcitry/tcitry.github.io/pull/278#issuecomment-6159038127) in [tcitry/tcitry.github.io](https://github.com/tcitry/tcitry.github.io)<br>
+44. ⭐ Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)<br>
+45. ⭐ Starred [threerocks/hand-drawn-styles](https://github.com/threerocks/hand-drawn-styles)<br>
+46. ⭐ Starred [e2b-dev/desktop](https://github.com/e2b-dev/desktop)<br>
+47. ⭐ Starred [elliothux/open-compute](https://github.com/elliothux/open-compute)<br>
+48. ⭐ Starred [makecindy/cindy](https://github.com/makecindy/cindy)<br>
+49. ⭐ Starred [cartesiancs/map3d](https://github.com/cartesiancs/map3d)<br>
+50. ⭐ Starred [apify/crawlee](https://github.com/apify/crawlee)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
