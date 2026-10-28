@@ -12,10 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.4.0
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
-          feed_list: "https://yindongliang.com/index.xml"
+          feed_list: "https://yindongliang.com/posts/index.xml"
           max_post_count: 10
           template: "default"

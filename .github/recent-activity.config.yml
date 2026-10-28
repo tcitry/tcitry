@@ -1,8 +1,15 @@
 settings:
   username: "tcitry"
   commit_msg: "Update the recent activity"
-  max_lines: 50
-  disabled_events: ["push", "fork", "pull_request", "issue_comment", "pull_request_comment"]
-  url_text: "{REPO}{ID}"
+  max_lines: 10
+  # Supported names are documented by Readme-Workflows/recent-activity
+  # (star, pr, comments, ...). Whitelist takes priority over disabled_events.
+  whitelisted_events: ["star"]
+  ignored_repos: ["tcitry/tcitry.github.io"]
+  # Link text for the {URL} placeholder. Star events have no issue/PR id, and
+  # {ID} hrefs read pull_request.html_url, which the public events API no longer sends.
+  url_text: "{REPO}"
   commit_name: "recent-activity-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+messages:
+  new_star: "⭐ Starred {URL}"
