@@ -1,16 +1,16 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [superdoc/docx-editor](https://github.com/superdoc/docx-editor)<br>
-2. ⭐ Starred [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor)<br>
-3. ⭐ Starred [dream-num/univer](https://github.com/dream-num/univer)<br>
-4. ⭐ Starred [ripperhe/Bob](https://github.com/ripperhe/Bob)<br>
-5. ⭐ Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>
-6. ⭐ Starred [storytold/artcraft](https://github.com/storytold/artcraft)<br>
-7. ⭐ Starred [storytold/vectorcraft](https://github.com/storytold/vectorcraft)<br>
-8. ⭐ Starred [garrytan/gstack](https://github.com/garrytan/gstack)<br>
-9. ⭐ Starred [garrytan/gbrain](https://github.com/garrytan/gbrain)<br>
-10. ⭐ Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)<br>
+1. ⭐ Starred [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science)<br>
+2. ⭐ Starred [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)<br>
+3. ⭐ Starred [superdoc/docx-editor](https://github.com/superdoc/docx-editor)<br>
+4. ⭐ Starred [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor)<br>
+5. ⭐ Starred [dream-num/univer](https://github.com/dream-num/univer)<br>
+6. ⭐ Starred [ripperhe/Bob](https://github.com/ripperhe/Bob)<br>
+7. ⭐ Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>
+8. ⭐ Starred [storytold/artcraft](https://github.com/storytold/artcraft)<br>
+9. ⭐ Starred [storytold/vectorcraft](https://github.com/storytold/vectorcraft)<br>
+10. ⭐ Starred [garrytan/gstack](https://github.com/garrytan/gstack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
