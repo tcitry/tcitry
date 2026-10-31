@@ -1,16 +1,16 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cloudflare/workerd](https://github.com/cloudflare/workerd)<br>
-2. ⭐ Starred [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science)<br>
-3. ⭐ Starred [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)<br>
-4. ⭐ Starred [superdoc/docx-editor](https://github.com/superdoc/docx-editor)<br>
-5. ⭐ Starred [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor)<br>
-6. ⭐ Starred [dream-num/univer](https://github.com/dream-num/univer)<br>
-7. ⭐ Starred [ripperhe/Bob](https://github.com/ripperhe/Bob)<br>
-8. ⭐ Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>
-9. ⭐ Starred [storytold/artcraft](https://github.com/storytold/artcraft)<br>
-10. ⭐ Starred [storytold/vectorcraft](https://github.com/storytold/vectorcraft)<br>
+1. ⭐ Starred [nightly-labs/openbot](https://github.com/nightly-labs/openbot)<br>
+2. ⭐ Starred [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)<br>
+3. ⭐ Starred [cloudflare/workerd](https://github.com/cloudflare/workerd)<br>
+4. ⭐ Starred [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science)<br>
+5. ⭐ Starred [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)<br>
+6. ⭐ Starred [superdoc/docx-editor](https://github.com/superdoc/docx-editor)<br>
+7. ⭐ Starred [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor)<br>
+8. ⭐ Starred [dream-num/univer](https://github.com/dream-num/univer)<br>
+9. ⭐ Starred [ripperhe/Bob](https://github.com/ripperhe/Bob)<br>
+10. ⭐ Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
