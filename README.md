@@ -1,16 +1,16 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mastra-ai/mastra](https://github.com/mastra-ai/mastra)<br>
-2. ⭐ Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)<br>
-3. ⭐ Starred [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)<br>
-4. ⭐ Starred [nightly-labs/openbot](https://github.com/nightly-labs/openbot)<br>
-5. ⭐ Starred [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)<br>
-6. ⭐ Starred [cloudflare/workerd](https://github.com/cloudflare/workerd)<br>
-7. ⭐ Starred [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science)<br>
-8. ⭐ Starred [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)<br>
-9. ⭐ Starred [superdoc/docx-editor](https://github.com/superdoc/docx-editor)<br>
-10. ⭐ Starred [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor)<br>
+1. ⭐ Starred [kgoedecke/doop](https://github.com/kgoedecke/doop)<br>
+2. ⭐ Starred [mastra-ai/mastra](https://github.com/mastra-ai/mastra)<br>
+3. ⭐ Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)<br>
+4. ⭐ Starred [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)<br>
+5. ⭐ Starred [nightly-labs/openbot](https://github.com/nightly-labs/openbot)<br>
+6. ⭐ Starred [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)<br>
+7. ⭐ Starred [cloudflare/workerd](https://github.com/cloudflare/workerd)<br>
+8. ⭐ Starred [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science)<br>
+9. ⭐ Starred [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)<br>
+10. ⭐ Starred [superdoc/docx-editor](https://github.com/superdoc/docx-editor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
