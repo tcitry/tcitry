@@ -1,16 +1,16 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [imraywang/ray-sticker-shop](https://github.com/imraywang/ray-sticker-shop)<br>
-2. ⭐ Starred [cloudflare/capnweb](https://github.com/cloudflare/capnweb)<br>
-3. ⭐ Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)<br>
-4. ⭐ Starred [larashero3-dotcom/lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone)<br>
-5. ⭐ Starred [kgoedecke/doop](https://github.com/kgoedecke/doop)<br>
-6. ⭐ Starred [mastra-ai/mastra](https://github.com/mastra-ai/mastra)<br>
-7. ⭐ Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)<br>
-8. ⭐ Starred [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)<br>
-9. ⭐ Starred [nightly-labs/openbot](https://github.com/nightly-labs/openbot)<br>
-10. ⭐ Starred [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)<br>
+1. ⭐ Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)<br>
+2. ⭐ Starred [croffasia/itsaplan](https://github.com/croffasia/itsaplan)<br>
+3. ⭐ Starred [imraywang/ray-sticker-shop](https://github.com/imraywang/ray-sticker-shop)<br>
+4. ⭐ Starred [cloudflare/capnweb](https://github.com/cloudflare/capnweb)<br>
+5. ⭐ Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)<br>
+6. ⭐ Starred [larashero3-dotcom/lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone)<br>
+7. ⭐ Starred [kgoedecke/doop](https://github.com/kgoedecke/doop)<br>
+8. ⭐ Starred [mastra-ai/mastra](https://github.com/mastra-ai/mastra)<br>
+9. ⭐ Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)<br>
+10. ⭐ Starred [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
