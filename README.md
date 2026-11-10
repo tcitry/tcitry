@@ -1,16 +1,16 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Unleash/unleash](https://github.com/Unleash/unleash)<br>
-2. ⭐ Starred [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)<br>
-3. ⭐ Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)<br>
-4. ⭐ Starred [croffasia/itsaplan](https://github.com/croffasia/itsaplan)<br>
-5. ⭐ Starred [imraywang/ray-sticker-shop](https://github.com/imraywang/ray-sticker-shop)<br>
-6. ⭐ Starred [cloudflare/capnweb](https://github.com/cloudflare/capnweb)<br>
-7. ⭐ Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)<br>
-8. ⭐ Starred [larashero3-dotcom/lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone)<br>
-9. ⭐ Starred [kgoedecke/doop](https://github.com/kgoedecke/doop)<br>
-10. ⭐ Starred [mastra-ai/mastra](https://github.com/mastra-ai/mastra)<br>
+1. ⭐ Starred [Anil-matcha/suparagent](https://github.com/Anil-matcha/suparagent)<br>
+2. ⭐ Starred [snarktank/ralph](https://github.com/snarktank/ralph)<br>
+3. ⭐ Starred [Unleash/unleash](https://github.com/Unleash/unleash)<br>
+4. ⭐ Starred [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)<br>
+5. ⭐ Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)<br>
+6. ⭐ Starred [croffasia/itsaplan](https://github.com/croffasia/itsaplan)<br>
+7. ⭐ Starred [imraywang/ray-sticker-shop](https://github.com/imraywang/ray-sticker-shop)<br>
+8. ⭐ Starred [cloudflare/capnweb](https://github.com/cloudflare/capnweb)<br>
+9. ⭐ Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)<br>
+10. ⭐ Starred [larashero3-dotcom/lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
