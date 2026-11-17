@@ -1,16 +1,16 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)<br>
-2. ⭐ Starred [Anil-matcha/suparagent](https://github.com/Anil-matcha/suparagent)<br>
-3. ⭐ Starred [snarktank/ralph](https://github.com/snarktank/ralph)<br>
-4. ⭐ Starred [Unleash/unleash](https://github.com/Unleash/unleash)<br>
-5. ⭐ Starred [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)<br>
-6. ⭐ Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)<br>
-7. ⭐ Starred [croffasia/itsaplan](https://github.com/croffasia/itsaplan)<br>
-8. ⭐ Starred [imraywang/ray-sticker-shop](https://github.com/imraywang/ray-sticker-shop)<br>
-9. ⭐ Starred [cloudflare/capnweb](https://github.com/cloudflare/capnweb)<br>
-10. ⭐ Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)<br>
+1. ⭐ Starred [ImChong/Robotics_Notebooks](https://github.com/ImChong/Robotics_Notebooks)<br>
+2. ⭐ Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)<br>
+3. ⭐ Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)<br>
+4. ⭐ Starred [Anil-matcha/suparagent](https://github.com/Anil-matcha/suparagent)<br>
+5. ⭐ Starred [snarktank/ralph](https://github.com/snarktank/ralph)<br>
+6. ⭐ Starred [Unleash/unleash](https://github.com/Unleash/unleash)<br>
+7. ⭐ Starred [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)<br>
+8. ⭐ Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)<br>
+9. ⭐ Starred [croffasia/itsaplan](https://github.com/croffasia/itsaplan)<br>
+10. ⭐ Starred [imraywang/ray-sticker-shop](https://github.com/imraywang/ray-sticker-shop)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
