@@ -1,16 +1,16 @@
 ### 🚀 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yetone/magpie](https://github.com/yetone/magpie)<br>
-2. ⭐ Starred [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator)<br>
-3. ⭐ Starred [happier-dev/happier](https://github.com/happier-dev/happier)<br>
-4. ⭐ Starred [get-bb/bb](https://github.com/get-bb/bb)<br>
-5. ⭐ Starred [XinaTian/MROffice](https://github.com/XinaTian/MROffice)<br>
-6. ⭐ Starred [solidjs/solid](https://github.com/solidjs/solid)<br>
-7. ⭐ Starred [ythx-101/live-panel-skill](https://github.com/ythx-101/live-panel-skill)<br>
-8. ⭐ Starred [ImChong/Robotics_Notebooks](https://github.com/ImChong/Robotics_Notebooks)<br>
-9. ⭐ Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)<br>
-10. ⭐ Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)<br>
+1. ⭐ Starred [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit)<br>
+2. ⭐ Starred [yetone/magpie](https://github.com/yetone/magpie)<br>
+3. ⭐ Starred [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator)<br>
+4. ⭐ Starred [happier-dev/happier](https://github.com/happier-dev/happier)<br>
+5. ⭐ Starred [get-bb/bb](https://github.com/get-bb/bb)<br>
+6. ⭐ Starred [XinaTian/MROffice](https://github.com/XinaTian/MROffice)<br>
+7. ⭐ Starred [solidjs/solid](https://github.com/solidjs/solid)<br>
+8. ⭐ Starred [ythx-101/live-panel-skill](https://github.com/ythx-101/live-panel-skill)<br>
+9. ⭐ Starred [ImChong/Robotics_Notebooks](https://github.com/ImChong/Robotics_Notebooks)<br>
+10. ⭐ Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### ✈️ Recent Posts
